@@ -1,4 +1,4 @@
-{"version":2,"data":[
+{"version":1,"data":[
   {
     "champId": "Annie",
     "release": "1235174400",
@@ -18,7 +18,7 @@
     "release": "1281398400",
     "soundText": "Người bảo hộ luôn sẵn sàng!",
     "strongAgainst": "[45,50,90,30,112,17,82,63,1,143]",
-    "video": "VZD50UcAQ1k",
+    "video": "PIzojFT9JEs",
     "weakAgainst": "[161,78,223,80,120,103,157,23,89,85]"
   },
   {
