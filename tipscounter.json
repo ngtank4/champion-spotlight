@@ -1,4 +1,4 @@
-{"version":1,"data":[
+{"version":2,"data":[
   {
     "champId": "Annie",
     "release": "1235174400",
@@ -954,5 +954,14 @@
   {
     "champId": "Camille",
     "video": "PNAzc6zRaL0"
+  },
+  {
+    "champId": "Xayah",
+    "video": "04A3lV5GBxQ"
+  },
+  {
+    "champId": "Rakan",
+    "video": "hf8Q9KFTM5I&t"
   }
+  
 ]}
