@@ -2,7 +2,7 @@
   "data": [
     {
       "champId": "Annie",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "Bạn muốn chơi cùng tôi không?  Chắc sẽ rất vui đấy!",
       "strongAgainst": "[157,127,136,4,245,55,61,103,268,105]",
@@ -12,7 +12,7 @@
     },
     {
       "champId": "Olaf",
-      "ip": 0,
+      "ip": 6300,
       "release": "1276041600",
       "soundText": "",
       "strongAgainst": "[98,111,33,24,80,36,114,41,122,58]",
@@ -22,7 +22,7 @@
     },
     {
       "champId": "Galio",
-      "ip": 0,
+      "ip": 6300,
       "release": "1281398400",
       "soundText": "Người bảo hộ luôn sẵn sàng!",
       "strongAgainst": "[45,50,90,30,112,17,82,63,1,143]",
