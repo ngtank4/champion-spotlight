@@ -13,7 +13,7 @@
     },
     {
       "champId": "Olaf",
-      "ip": 6300,
+      "ip": 3150,
       "release": "1276041600",
       "soundText": "",
       "soundTextEN": "",
@@ -24,7 +24,7 @@
     },
     {
       "champId": "Galio",
-      "ip": 6300,
+      "ip": 4800,
       "release": "1281398400",
       "soundText": "Người bảo hộ luôn sẵn sàng!",
       "soundTextEN": "",
@@ -35,7 +35,7 @@
     },
     {
       "champId": "TwistedFate",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -46,7 +46,7 @@
     },
     {
       "champId": "XinZhao",
-      "ip": 0,
+      "ip": 1350,
       "release": "1278979200",
       "soundText": "",
       "soundTextEN": "",
@@ -57,7 +57,7 @@
     },
     {
       "champId": "Urgot",
-      "ip": 0,
+      "ip": 1350,
       "release": "1282608000",
       "soundText": "",
       "soundTextEN": "",
@@ -68,7 +68,7 @@
     },
     {
       "champId": "Leblanc",
-      "ip": 0,
+      "ip": 3150,
       "release": "1288656000",
       "soundText": "Hoa hồng đen sẽ nở thêm một lần nữa.",
       "soundTextEN": "",
@@ -79,7 +79,7 @@
     },
     {
       "champId": "Vladimir",
-      "ip": 0,
+      "ip": 4800,
       "release": "1280188800",
       "soundText": "",
       "soundTextEN": "",
@@ -90,7 +90,7 @@
     },
     {
       "champId": "FiddleSticks",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "Cuộc đấu giá của ngài, thưa ông chủ!",
       "soundTextEN": "",
@@ -101,7 +101,7 @@
     },
     {
       "champId": "Kayle",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "Vào cuộc cạnh tranh!",
       "soundTextEN": "",
@@ -112,7 +112,7 @@
     },
     {
       "champId": "MasterYi",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -123,7 +123,7 @@
     },
     {
       "champId": "Alistar",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "Không gì có thể giữ tôi lại!",
       "soundTextEN": "",
@@ -134,7 +134,7 @@
     },
     {
       "champId": "Ryze",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -145,7 +145,7 @@
     },
     {
       "champId": "Sion",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -156,7 +156,7 @@
     },
     {
       "champId": "Sivir",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -167,7 +167,7 @@
     },
     {
       "champId": "Soraka",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -178,7 +178,7 @@
     },
     {
       "champId": "Teemo",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -189,7 +189,7 @@
     },
     {
       "champId": "Tristana",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -200,7 +200,7 @@
     },
     {
       "champId": "Warwick",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -211,7 +211,7 @@
     },
     {
       "champId": "Nunu",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -222,7 +222,7 @@
     },
     {
       "champId": "MissFortune",
-      "ip": 0,
+      "ip": 3150,
       "release": "1283904000",
       "soundText": "",
       "soundTextEN": "",
@@ -233,7 +233,7 @@
     },
     {
       "champId": "Ashe",
-      "ip": 0,
+      "ip": 450,
       "release": "1235174400",
       "soundText": "Cả thể giới trên một mũi tên.",
       "soundTextEN": "",
@@ -244,7 +244,7 @@
     },
     {
       "champId": "Tryndamere",
-      "ip": 0,
+      "ip": 1350,
       "release": "1241136000",
       "soundText": "",
       "soundTextEN": "",
@@ -255,7 +255,7 @@
     },
     {
       "champId": "Jax",
-      "ip": 0,
+      "ip": 3150,
       "release": "1235174400",
       "soundText": "Chúng ta hãy làm việc này!",
       "soundTextEN": "",
@@ -266,7 +266,7 @@
     },
     {
       "champId": "Morgana",
-      "ip": 0,
+      "ip": 1350,
       "release": "1235174400",
       "soundText": "",
       "soundTextEN": "",
@@ -277,7 +277,7 @@
     },
     {
       "champId": "Zilean",
-      "ip": 0,
+      "ip": 1350,
       "release": "1240012800",
       "soundText": "",
       "soundTextEN": "",
@@ -288,7 +288,7 @@
     },
     {
       "champId": "Singed",
-      "ip": 0,
+      "ip": 1350,
       "release": "1240012800",
       "soundText": "",
       "soundTextEN": "",
@@ -299,7 +299,7 @@
     },
     {
       "champId": "Evelynn",
-      "ip": 0,
+      "ip": 1350,
       "release": "1241136000",
       "soundText": "Màn đêm là tấm mành che phủ của tôi…",
       "soundTextEN": "",
@@ -310,7 +310,7 @@
     },
     {
       "champId": "Twitch",
-      "ip": 0,
+      "ip": 3150,
       "release": "1241136000",
       "soundText": "",
       "soundTextEN": "",
@@ -321,7 +321,7 @@
     },
     {
       "champId": "Karthus",
-      "ip": 0,
+      "ip": 3150,
       "release": "1244764800",
       "soundText": "Bạn có cảm thấy ớn lạnh?",
       "soundTextEN": "",
@@ -332,7 +332,7 @@
     },
     {
       "champId": "Chogath",
-      "ip": 0,
+      "ip": 1350,
       "release": "1245974400",
       "soundText": "Bạn muốn ước thế giới mà bạn biết nó sẽ kết thúc! Đúng…",
       "soundTextEN": "",
@@ -343,7 +343,7 @@
     },
     {
       "champId": "Amumu",
-      "ip": 0,
+      "ip": 1350,
       "release": "1245974400",
       "soundText": "Tôi nghĩ bạn sẽ không bao giờ chọn tôi.",
       "soundTextEN": "",
@@ -354,7 +354,7 @@
     },
     {
       "champId": "Rammus",
-      "ip": 0,
+      "ip": 6300,
       "release": "1247184000",
       "soundText": "",
       "soundTextEN": "",
@@ -365,7 +365,7 @@
     },
     {
       "champId": "Anivia",
-      "ip": 0,
+      "ip": 6300,
       "release": "1247184000",
       "soundText": "Trên đôi cánh của tôi.",
       "soundTextEN": "",
@@ -376,7 +376,7 @@
     },
     {
       "champId": "Shaco",
-      "ip": 0,
+      "ip": 6300,
       "release": "1255132800",
       "soundText": "",
       "soundTextEN": "",
@@ -387,7 +387,7 @@
     },
     {
       "champId": "DrMundo",
-      "ip": 0,
+      "ip": 1350,
       "release": "1251849600",
       "soundText": "Mundo!",
       "soundTextEN": "",
@@ -398,7 +398,7 @@
     },
     {
       "champId": "Sona",
-      "ip": 0,
+      "ip": 6300,
       "release": "1285027200",
       "soundText": "",
       "soundTextEN": "",
@@ -409,7 +409,7 @@
     },
     {
       "champId": "Kassadin",
-      "ip": 0,
+      "ip": 6300,
       "release": "1249603200",
       "soundText": "Cán cân quyền lực phải được đảm bảo.",
       "soundTextEN": "",
@@ -420,7 +420,7 @@
     },
     {
       "champId": "Irelia",
-      "ip": 0,
+      "ip": 4800,
       "release": "1289865600",
       "soundText": "Lưỡi kiếm của tôi là dịch vụ của ngài!",
       "soundTextEN": "",
@@ -431,7 +431,7 @@
     },
     {
       "champId": "Janna",
-      "ip": 0,
+      "ip": 1350,
       "release": "1251849600",
       "soundText": "",
       "soundTextEN": "",
@@ -442,7 +442,7 @@
     },
     {
       "champId": "Gangplank",
-      "ip": 0,
+      "ip": 6300,
       "release": "1250640000",
       "soundText": "",
       "soundTextEN": "",
@@ -453,7 +453,7 @@
     },
     {
       "champId": "Corki",
-      "ip": 0,
+      "ip": 6300,
       "release": "1253318400",
       "soundText": "Tôi vượt qua sự giới hạn và nó đã ban cho tôi một cỗ máy hủy diệt!",
       "soundTextEN": "",
@@ -464,7 +464,7 @@
     },
     {
       "champId": "Karma",
-      "ip": 0,
+      "ip": 6300,
       "release": "1296518400",
       "soundText": "Tôi luôn tin tưởng lòng can đảm của bạn.",
       "soundTextEN": "",
@@ -475,7 +475,7 @@
     },
     {
       "champId": "Taric",
-      "ip": 0,
+      "ip": 1350,
       "release": "1250640000",
       "soundText": "",
       "soundTextEN": "",
@@ -486,7 +486,7 @@
     },
     {
       "champId": "Veigar",
-      "ip": 0,
+      "ip": 1350,
       "release": "1248393600",
       "soundText": "",
       "soundTextEN": "",
@@ -497,7 +497,7 @@
     },
     {
       "champId": "Trundle",
-      "ip": 0,
+      "ip": 6300,
       "release": "1291161600",
       "soundText": "",
       "soundTextEN": "",
@@ -508,7 +508,7 @@
     },
     {
       "champId": "Swain",
-      "ip": 0,
+      "ip": 6300,
       "release": "1286236800",
       "soundText": "",
       "soundTextEN": "",
@@ -519,7 +519,7 @@
     },
     {
       "champId": "Caitlyn",
-      "ip": 0,
+      "ip": 6300,
       "release": "1294099200",
       "soundText": "Tôi đang thi hành một vụ án.",
       "soundTextEN": "",
@@ -530,7 +530,7 @@
     },
     {
       "champId": "Blitzcrank",
-      "ip": 0,
+      "ip": 6300,
       "release": "1251849600",
       "soundText": "Khai hỏa và sẵn sàng tiếp đón.",
       "soundTextEN": "",
@@ -541,7 +541,7 @@
     },
     {
       "champId": "Malphite",
-      "ip": 0,
+      "ip": 1350,
       "release": "1251849600",
       "soundText": "",
       "soundTextEN": "",
@@ -552,7 +552,7 @@
     },
     {
       "champId": "Katarina",
-      "ip": 0,
+      "ip": 6300,
       "release": "1253318400",
       "soundText": "Bạo lực mới giải quyết được mọi vấn đề!",
       "soundTextEN": "",
@@ -563,7 +563,7 @@
     },
     {
       "champId": "Nocturne",
-      "ip": 0,
+      "ip": 4800,
       "release": "1300147200",
       "soundText": "",
       "soundTextEN": "",
@@ -574,7 +574,7 @@
     },
     {
       "champId": "Maokai",
-      "ip": 0,
+      "ip": 4800,
       "release": "1297814400",
       "soundText": "",
       "soundTextEN": "",
@@ -585,7 +585,7 @@
     },
     {
       "champId": "Renekton",
-      "ip": 0,
+      "ip": 4800,
       "release": "1295308800",
       "soundText": "",
       "soundTextEN": "",
@@ -596,7 +596,7 @@
     },
     {
       "champId": "JarvanIV",
-      "ip": 0,
+      "ip": 4800,
       "release": "1298937600",
       "soundText": "Với ý chí của tôi, việc này phải được hoàn thành!",
       "soundTextEN": "",
@@ -607,7 +607,7 @@
     },
     {
       "champId": "Elise",
-      "ip": 0,
+      "ip": 6300,
       "release": "1351209600",
       "soundText": "Chỉ có nhện là an toàn trọng mạng nhện của mình.",
       "soundTextEN": "",
@@ -618,7 +618,7 @@
     },
     {
       "champId": "Orianna",
-      "ip": 0,
+      "ip": 4800,
       "release": "1306886400",
       "soundText": "",
       "soundTextEN": "",
@@ -629,7 +629,7 @@
     },
     {
       "champId": "Wukong",
-      "ip": 0,
+      "ip": 4800,
       "release": "1311638400",
       "soundText": "",
       "soundTextEN": "",
@@ -640,7 +640,7 @@
     },
     {
       "champId": "Brand",
-      "ip": 0,
+      "ip": 4800,
       "release": "1302566400",
       "soundText": "Chuẩn bị thiêu rụi cả thế giới chưa? hehehe...",
       "soundTextEN": "",
@@ -651,7 +651,7 @@
     },
     {
       "champId": "LeeSin",
-      "ip": 0,
+      "ip": 6300,
       "release": "1301616000",
       "soundText": "Mong muốn của bạn, bàn tay của tôi.",
       "soundTextEN": "",
@@ -662,7 +662,7 @@
     },
     {
       "champId": "Vayne",
-      "ip": 0,
+      "ip": 6300,
       "release": "1304985600",
       "soundText": "",
       "soundTextEN": "",
@@ -673,7 +673,7 @@
     },
     {
       "champId": "Rumble",
-      "ip": 0,
+      "ip": 4800,
       "release": "1303776000",
       "soundText": "",
       "soundTextEN": "",
@@ -684,7 +684,7 @@
     },
     {
       "champId": "Cassiopeia",
-      "ip": 0,
+      "ip": 4800,
       "release": "1292284800",
       "soundText": "Độc của ta không có thuốc chữa.",
       "soundTextEN": "",
@@ -695,7 +695,7 @@
     },
     {
       "champId": "Skarner",
-      "ip": 0,
+      "ip": 4800,
       "release": "1312848000",
       "soundText": "",
       "soundTextEN": "",
@@ -706,7 +706,7 @@
     },
     {
       "champId": "Heimerdinger",
-      "ip": 0,
+      "ip": 6300,
       "release": "1255132800",
       "soundText": "Thật vậy, một sự lựa chọn khôn ngoan.",
       "soundTextEN": "",
@@ -717,7 +717,7 @@
     },
     {
       "champId": "Nasus",
-      "ip": 0,
+      "ip": 1350,
       "release": "1254355200",
       "soundText": "",
       "soundTextEN": "",
@@ -728,7 +728,7 @@
     },
     {
       "champId": "Nidalee",
-      "ip": 0,
+      "ip": 6300,
       "release": "1261008000",
       "soundText": "",
       "soundTextEN": "",
@@ -739,7 +739,7 @@
     },
     {
       "champId": "Udyr",
-      "ip": 0,
+      "ip": 1350,
       "release": "1259712000",
       "soundText": "",
       "soundTextEN": "",
@@ -750,7 +750,7 @@
     },
     {
       "champId": "Poppy",
-      "ip": 0,
+      "ip": 450,
       "release": "1263340800",
       "soundText": "",
       "soundTextEN": "",
@@ -761,7 +761,7 @@
     },
     {
       "champId": "Gragas",
-      "ip": 0,
+      "ip": 6300,
       "release": "1265068800",
       "soundText": "Nếu ngài mua, có tôi!",
       "soundTextEN": "",
@@ -772,7 +772,7 @@
     },
     {
       "champId": "Pantheon",
-      "ip": 0,
+      "ip": 6300,
       "release": "1265068800",
       "soundText": "",
       "soundTextEN": "",
@@ -783,7 +783,7 @@
     },
     {
       "champId": "Ezreal",
-      "ip": 0,
+      "ip": 6300,
       "release": "1268697600",
       "soundText": "Cần thời gian để hiển thị một kĩ năng thực sự!",
       "soundTextEN": "",
@@ -794,7 +794,7 @@
     },
     {
       "champId": "Mordekaiser",
-      "ip": 0,
+      "ip": 6300,
       "release": "1266969600",
       "soundText": "",
       "soundTextEN": "",
@@ -805,7 +805,7 @@
     },
     {
       "champId": "Yorick",
-      "ip": 0,
+      "ip": 4800,
       "release": "1308700800",
       "soundText": "",
       "soundTextEN": "",
@@ -816,7 +816,7 @@
     },
     {
       "champId": "Akali",
-      "ip": 0,
+      "ip": 3150,
       "release": "1273536000",
       "soundText": "Khi mệnh lệnh đã được cân bằng.",
       "soundTextEN": "",
@@ -827,7 +827,7 @@
     },
     {
       "champId": "Kennen",
-      "ip": 0,
+      "ip": 4800,
       "release": "1270684800",
       "soundText": "Đôi mắt không bao giờ nói dối.",
       "soundTextEN": "",
@@ -838,7 +838,7 @@
     },
     {
       "champId": "Garen",
-      "ip": 0,
+      "ip": 450,
       "release": "1272326400",
       "soundText": "",
       "soundTextEN": "",
@@ -849,7 +849,7 @@
     },
     {
       "champId": "Leona",
-      "ip": 0,
+      "ip": 6300,
       "release": "1310515200",
       "soundText": "Bình minh đã đến.",
       "soundTextEN": "",
@@ -860,7 +860,7 @@
     },
     {
       "champId": "Malzahar",
-      "ip": 0,
+      "ip": 6300,
       "release": "1275350400",
       "soundText": "",
       "soundTextEN": "",
@@ -871,7 +871,7 @@
     },
     {
       "champId": "Talon",
-      "ip": 0,
+      "ip": 4800,
       "release": "1314144000",
       "soundText": "",
       "soundTextEN": "",
@@ -882,7 +882,7 @@
     },
     {
       "champId": "Riven",
-      "ip": 0,
+      "ip": 4800,
       "release": "1315958400",
       "soundText": "",
       "soundTextEN": "",
@@ -893,7 +893,7 @@
     },
     {
       "champId": "KogMaw",
-      "ip": 0,
+      "ip": 4800,
       "release": "1277337600",
       "soundText": "Đã đến giờ ăn!",
       "soundTextEN": "",
@@ -904,7 +904,7 @@
     },
     {
       "champId": "Shen",
-      "ip": 0,
+      "ip": 6300,
       "release": "1269388800",
       "soundText": "",
       "soundTextEN": "",
@@ -915,7 +915,7 @@
     },
     {
       "champId": "Lux",
-      "ip": 0,
+      "ip": 6300,
       "release": "1287446400",
       "soundText": "",
       "soundTextEN": "",
@@ -926,7 +926,7 @@
     },
     {
       "champId": "Xerath",
-      "ip": 0,
+      "ip": 4800,
       "release": "1317772800",
       "soundText": "",
       "soundTextEN": "",
@@ -937,9 +937,9 @@
     },
     {
       "champId": "Shyvana",
-      "ip": 0,
+      "ip": 4800,
       "release": "1320105600",
-      "soundText": "",
+      "soundText": "Trước mặt tôi, họ không là gì cả",
       "soundTextEN": "",
       "strongAgainst": "[131,113,59,62,107,79,33,154,64,105]",
       "video": "AoV5MPI2ozU",
@@ -948,7 +948,7 @@
     },
     {
       "champId": "Ahri",
-      "ip": 0,
+      "ip": 6300,
       "release": "1323820800",
       "soundText": "Tại sao lại không tin tôi chứ?",
       "soundTextEN": "",
@@ -959,7 +959,7 @@
     },
     {
       "champId": "Graves",
-      "ip": 0,
+      "ip": 4800,
       "release": "1318982400",
       "soundText": "Người chết đi bộ!",
       "soundTextEN": "",
@@ -970,7 +970,7 @@
     },
     {
       "champId": "Fizz",
-      "ip": 0,
+      "ip": 6300,
       "release": "1321315200",
       "soundText": "Hãy để tôi ở ‘m’!",
       "soundTextEN": "",
@@ -981,7 +981,7 @@
     },
     {
       "champId": "Volibear",
-      "ip": 0,
+      "ip": 6300,
       "release": "1322524800",
       "soundText": "",
       "soundTextEN": "",
@@ -992,7 +992,7 @@
     },
     {
       "champId": "Rengar",
-      "ip": 0,
+      "ip": 6300,
       "release": "1345507200",
       "soundText": "",
       "soundTextEN": "",
@@ -1003,7 +1003,7 @@
     },
     {
       "champId": "Varus",
-      "ip": 0,
+      "ip": 6300,
       "release": "1336435200",
       "soundText": "",
       "soundTextEN": "",
@@ -1014,7 +1014,7 @@
     },
     {
       "champId": "Nautilus",
-      "ip": 0,
+      "ip": 6300,
       "release": "1329177600",
       "soundText": "",
       "soundTextEN": "",
@@ -1025,7 +1025,7 @@
     },
     {
       "champId": "Viktor",
-      "ip": 0,
+      "ip": 6300,
       "release": "1325116800",
       "soundText": "",
       "soundTextEN": "",
@@ -1036,7 +1036,7 @@
     },
     {
       "champId": "Sejuani",
-      "ip": 0,
+      "ip": 6300,
       "release": "1326758400",
       "soundText": "",
       "soundTextEN": "",
@@ -1047,7 +1047,7 @@
     },
     {
       "champId": "Fiora",
-      "ip": 0,
+      "ip": 6300,
       "release": "1330473600",
       "soundText": "Tôi khao khát một đối thủ xứng đáng.",
       "soundTextEN": "",
@@ -1058,7 +1058,7 @@
     },
     {
       "champId": "Ziggs",
-      "ip": 0,
+      "ip": 6300,
       "release": "1328054400",
       "soundText": "",
       "soundTextEN": "",
@@ -1069,7 +1069,7 @@
     },
     {
       "champId": "Lulu",
-      "ip": 0,
+      "ip": 6300,
       "release": "1332201600",
       "soundText": "",
       "soundTextEN": "",
@@ -1080,7 +1080,7 @@
     },
     {
       "champId": "Draven",
-      "ip": 0,
+      "ip": 6300,
       "release": "1338940800",
       "soundText": "Chào mừng đến với liên minh của Draven.",
       "soundTextEN": "",
@@ -1091,7 +1091,7 @@
     },
     {
       "champId": "Hecarim",
-      "ip": 0,
+      "ip": 6300,
       "release": "1334707200",
       "soundText": "Kìa, sức mạnh của Shadow Isles.",
       "soundTextEN": "",
@@ -1102,7 +1102,7 @@
     },
     {
       "champId": "Khazix",
-      "ip": 0,
+      "ip": 6300,
       "release": "1348704000",
       "soundText": "Thay đổi … là tốt.",
       "soundTextEN": "",
@@ -1113,7 +1113,7 @@
     },
     {
       "champId": "Darius",
-      "ip": 0,
+      "ip": 6300,
       "release": "1337731200",
       "soundText": "Họ sẽ phải hối tiếc khi đã phản bội tôi!",
       "soundTextEN": "",
@@ -1124,7 +1124,7 @@
     },
     {
       "champId": "Jayce",
-      "ip": 0,
+      "ip": 6300,
       "release": "1341619200",
       "soundText": "Tôi chiến đấu vì một ngày mai tươi sáng hơn!",
       "soundTextEN": "",
@@ -1135,7 +1135,7 @@
     },
     {
       "champId": "Lissandra",
-      "ip": 0,
+      "ip": 6300,
       "release": "1367280000",
       "soundText": "",
       "soundTextEN": "",
@@ -1146,7 +1146,7 @@
     },
     {
       "champId": "Diana",
-      "ip": 0,
+      "ip": 6300,
       "release": "1344297600",
       "soundText": "Một vầng trăng mới đang hình thành.",
       "soundTextEN": "",
@@ -1157,7 +1157,7 @@
     },
     {
       "champId": "Quinn",
-      "ip": 0,
+      "ip": 6300,
       "release": "1362096000",
       "soundText": "",
       "soundTextEN": "",
@@ -1168,7 +1168,7 @@
     },
     {
       "champId": "Syndra",
-      "ip": 0,
+      "ip": 6300,
       "release": "1347494400",
       "soundText": "",
       "soundTextEN": "",
@@ -1179,7 +1179,7 @@
     },
     {
       "champId": "AurelionSol",
-      "ip": 0,
+      "ip": 6300,
       "release": "1458898711",
       "soundText": "",
       "soundTextEN": "",
@@ -1190,7 +1190,7 @@
     },
     {
       "champId": "Zyra",
-      "ip": 0,
+      "ip": 6300,
       "release": "1343088000",
       "soundText": "",
       "soundTextEN": "",
@@ -1201,7 +1201,7 @@
     },
     {
       "champId": "Gnar",
-      "ip": 0,
+      "ip": 6300,
       "release": "1407974400",
       "soundText": "",
       "soundTextEN": "",
@@ -1212,7 +1212,7 @@
     },
     {
       "champId": "Zac",
-      "ip": 0,
+      "ip": 6300,
       "release": "1364515200",
       "soundText": "",
       "soundTextEN": "",
@@ -1223,7 +1223,7 @@
     },
     {
       "champId": "Yasuo",
-      "ip": 0,
+      "ip": 6300,
       "release": "1386892800",
       "soundText": "",
       "soundTextEN": "",
@@ -1234,7 +1234,7 @@
     },
     {
       "champId": "VelKoz",
-      "ip": 0,
+      "ip": 6300,
       "release": "1393459200",
       "soundText": "",
       "soundTextEN": "",
@@ -1245,7 +1245,7 @@
     },
     {
       "champId": "Braum",
-      "ip": 0,
+      "ip": 6300,
       "release": "1399852800",
       "soundText": "Trái tim là thứ có cơ bắp mạnh mẽ nhất.",
       "soundTextEN": "",
@@ -1256,7 +1256,7 @@
     },
     {
       "champId": "Jhin",
-      "ip": 0,
+      "ip": 6300,
       "release": "1454284800",
       "soundText": "",
       "soundTextEN": "",
@@ -1267,7 +1267,7 @@
     },
     {
       "champId": "Kindred",
-      "ip": 0,
+      "ip": 6300,
       "release": "1444797900",
       "soundText": "",
       "soundTextEN": "",
@@ -1278,7 +1278,7 @@
     },
     {
       "champId": "Jinx",
-      "ip": 0,
+      "ip": 6300,
       "release": "1381363200",
       "soundText": "Nguyên tắc là phá hủy công trình! Hoặc giết người!",
       "soundTextEN": "",
@@ -1289,7 +1289,7 @@
     },
     {
       "champId": "TahmKench",
-      "ip": 0,
+      "ip": 6300,
       "release": "1436459937",
       "soundText": "",
       "soundTextEN": "",
@@ -1300,7 +1300,7 @@
     },
     {
       "champId": "Lucian",
-      "ip": 0,
+      "ip": 6300,
       "release": "1377129600",
       "soundText": "",
       "soundTextEN": "",
@@ -1311,7 +1311,7 @@
     },
     {
       "champId": "Zed",
-      "ip": 0,
+      "ip": 6300,
       "release": "1352764800",
       "soundText": "",
       "soundTextEN": "",
@@ -1322,7 +1322,7 @@
     },
     {
       "champId": "Ekko",
-      "ip": 0,
+      "ip": 6300,
       "release": "1432792554",
       "soundText": "",
       "soundTextEN": "",
@@ -1333,7 +1333,7 @@
     },
     {
       "champId": "Vi",
-      "ip": 0,
+      "ip": 6300,
       "release": "1355875200",
       "soundText": "",
       "soundTextEN": "",
@@ -1344,7 +1344,7 @@
     },
     {
       "champId": "Aatrox",
-      "ip": 0,
+      "ip": 6300,
       "release": "1371081600",
       "soundText": "Trận chiến này sẽ là kiệt tác của ta.",
       "soundTextEN": "",
@@ -1355,7 +1355,7 @@
     },
     {
       "champId": "Nami",
-      "ip": 0,
+      "ip": 6300,
       "release": "1354838400",
       "soundText": "",
       "soundTextEN": "",
@@ -1366,7 +1366,7 @@
     },
     {
       "champId": "Azir",
-      "ip": 0,
+      "ip": 6300,
       "release": "1410825600",
       "soundText": "Shurima! Hoàng đế của ngươi đã trở lại.",
       "soundTextEN": "",
@@ -1377,7 +1377,7 @@
     },
     {
       "champId": "Thresh",
-      "ip": 0,
+      "ip": 6300,
       "release": "1358899200",
       "soundText": "",
       "soundTextEN": "",
@@ -1388,7 +1388,7 @@
     },
     {
       "champId": "Illaoi",
-      "ip": 0,
+      "ip": 6300,
       "release": "1448323200",
       "soundText": "",
       "soundTextEN": "",
@@ -1399,7 +1399,7 @@
     },
     {
       "champId": "RekSai",
-      "ip": 0,
+      "ip": 6300,
       "release": "1418325688",
       "soundText": "",
       "soundTextEN": "",
@@ -1410,7 +1410,7 @@
     },
     {
       "champId": "Kalista",
-      "ip": 0,
+      "ip": 6300,
       "release": "1416355200",
       "soundText": "",
       "soundTextEN": "",
@@ -1421,7 +1421,7 @@
     },
     {
       "champId": "Bard",
-      "ip": 0,
+      "ip": 6300,
       "release": "1426114800",
       "soundText": "",
       "soundTextEN": "",
@@ -1432,7 +1432,7 @@
     },
     {
       "champId": "Taliyah",
-      "ip": 0,
+      "ip": 6300,
       "release": "1463529600",
       "soundText": "",
       "soundTextEN": "",
@@ -1443,7 +1443,7 @@
     },
     {
       "champId": "Kled",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
@@ -1454,7 +1454,7 @@
     },
     {
       "champId": "Ivern",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
@@ -1465,7 +1465,7 @@
     },
     {
       "champId": "Camille",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
@@ -1476,7 +1476,7 @@
     },
     {
       "champId": "Xayah",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
@@ -1487,7 +1487,7 @@
     },
     {
       "champId": "Rakan",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
@@ -1498,7 +1498,7 @@
     },
     {
       "champId": "Kayn",
-      "ip": 0,
+      "ip": 6300,
       "release": "",
       "soundText": "",
       "soundTextEN": "",
