@@ -1233,7 +1233,7 @@
       "weakAgainst": "[1,105,92,78,90,41,58,238,122,111]"
     },
     {
-      "champId": "VelKoz",
+      "champId": "Velkoz",
       "ip": 6300,
       "release": "1393459200",
       "soundText": "",
@@ -1508,5 +1508,5 @@
       "weakAgainst": ""
     }
   ],
-  "version": 8
+  "version": 9
 }
