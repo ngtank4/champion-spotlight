@@ -89,7 +89,7 @@
       "weakAgainst": "[7,104,133,92,59,238,75,58,48,10]"
     },
     {
-      "champId": "FiddleSticks",
+      "champId": "Fiddlesticks",
       "ip": 1350,
       "release": "1235174400",
       "soundText": "Cuộc đấu giá của ngài, thưa ông chủ!",
@@ -628,7 +628,7 @@
       "weakAgainst": "[238,161,245,103,4,63,42,136,134,105]"
     },
     {
-      "champId": "Wukong",
+      "champId": "MonkeyKing",
       "ip": 4800,
       "release": "1311638400",
       "soundText": "",
@@ -1508,5 +1508,5 @@
       "weakAgainst": ""
     }
   ],
-  "version": 7
+  "version": 8
 }
