@@ -1506,7 +1506,18 @@
       "video": "lXEHNQRC2mg",
       "videoEN": "",
       "weakAgainst": ""
+    },
+    {
+      "champId": "Ornn",
+      "ip": 6300,
+      "release": "1502988000",
+      "soundText": "",
+      "soundTextEN": "",
+      "strongAgainst": "",
+      "video": "",
+      "videoEN": "",
+      "weakAgainst": ""
     }
   ],
-  "version": 9
+  "version": 10
 }
