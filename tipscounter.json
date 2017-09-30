@@ -74,7 +74,7 @@
       "soundTextEN": "",
       "strongAgainst": "[112,245,38,61,268,134,4,105,136,1]",
       "video": "Ky4MUNZOR1s",
-      "videoEN": "",
+      "videoEN": "f1Y34gztQ4w",
       "weakAgainst": "[55,238,117,90,42,103,91,131,25,34]"
     },
     {
@@ -173,7 +173,7 @@
       "soundTextEN": "",
       "strongAgainst": "[44,78,63,26,1,12,143,43,432,161]",
       "video": "",
-      "videoEN": "",
+      "videoEN": "KJ6f1nsoUTs",
       "weakAgainst": "[53,267,111,37,89,25,223,40,412,117]"
     },
     {
@@ -470,7 +470,7 @@
       "soundTextEN": "",
       "strongAgainst": "[78,26,1,42,12,112,223,245,127,157]",
       "video": "CKHLmkI258I",
-      "videoEN": "",
+      "videoEN": "lWIj3IRz8DI",
       "weakAgainst": "[238,111,131,4,117,37,40,53,34,105]"
     },
     {
@@ -558,7 +558,7 @@
       "soundTextEN": "",
       "strongAgainst": "[63,45,245,99,136,7,115,134,84,91]",
       "video": "sMMFGaVq66c",
-      "videoEN": "",
+      "videoEN": "Kxd_Md9jbi0",
       "weakAgainst": "[238,126,31,268,157,1,38,34,61,90]"
     },
     {
@@ -613,7 +613,7 @@
       "soundTextEN": "",
       "strongAgainst": "[33,154,59,107,121,79,64,102,113,120]",
       "video": "egf2loba0vc",
-      "videoEN": "",
+      "videoEN": "mOz4uDKs2dM",
       "weakAgainst": "[203,104,254,421,35,11,56,32,5,24]"
     },
     {
@@ -734,7 +734,7 @@
       "soundTextEN": "",
       "strongAgainst": "[59,254,56,113,154,79,64,245,60,121]",
       "video": "TOr3WTRgwxc",
-      "videoEN": "",
+      "videoEN": "KZjRgm4mF_U",
       "weakAgainst": "[203,107,11,35,102,77,5,24,32,104]"
     },
     {
@@ -877,7 +877,7 @@
       "soundTextEN": "",
       "strongAgainst": "[38,61,45,103,4,127,245,136,268,131]",
       "video": "WSx9CVNFbFU",
-      "videoEN": "",
+      "videoEN": "iMNjoh8wjAM",
       "weakAgainst": "[34,238,117,55,105,157,42,25,99,1]"
     },
     {
@@ -998,7 +998,7 @@
       "soundTextEN": "",
       "strongAgainst": "[245,154,35,76,64,104,60,79,254,106]",
       "video": "k2RhtfK4djU",
-      "videoEN": "",
+      "videoEN": "GTJ-5prY98U",
       "weakAgainst": "[11,121,102,24,5,203,32,77,113,33]"
     },
     {
@@ -1108,7 +1108,7 @@
       "soundTextEN": "",
       "strongAgainst": "[107,59,245,64,33,120,11,79,106,60]",
       "video": "UluCc92-EtQ",
-      "videoEN": "",
+      "videoEN": "jKLK9zFiVII",
       "weakAgainst": "[203,77,102,104,76,5,113,35,254,56]"
     },
     {
@@ -1163,7 +1163,7 @@
       "soundTextEN": "",
       "strongAgainst": "[7,127,122,58,8,86,57,17,67,150]",
       "video": "",
-      "videoEN": "",
+      "videoEN": "O9eVLrcih9s",
       "weakAgainst": "[203,81,79,202,222,54,11,77,14,111]"
     },
     {
@@ -1174,7 +1174,7 @@
       "soundTextEN": "",
       "strongAgainst": "[127,112,1,90,136,268,131,61,34,4]",
       "video": "MmKtQzFA6tA",
-      "videoEN": "",
+      "videoEN": "YqI7N2R8tx4",
       "weakAgainst": "[238,55,99,42,105,7,245,103,25,157]"
     },
     {
@@ -1317,7 +1317,7 @@
       "soundTextEN": "",
       "strongAgainst": "[136,4,99,245,61,55,268,7,105,103]",
       "video": "k32WvkXPpnw",
-      "videoEN": "",
+      "videoEN": "2DFtlNGzMIA",
       "weakAgainst": "[10,31,117,34,90,42,1,157,127,131]"
     },
     {
@@ -1339,7 +1339,7 @@
       "soundTextEN": "Punch first. Ask questions while punching",
       "strongAgainst": "[60,33,59,79,120,64,154,107,121,56]",
       "video": "c3WsvuKHtlw",
-      "videoEN": "",
+      "videoEN": "vp3ZrRJz-ZY",
       "weakAgainst": "[76,5,131,11,24,77,203,106,104,32]"
     },
     {
@@ -1361,7 +1361,7 @@
       "soundTextEN": "",
       "strongAgainst": "[78,223,117,44,48,12,63,161,1,111]",
       "video": "VNeu646hLCI",
-      "videoEN": "",
+      "videoEN": "wd_Sz59QTVk",
       "weakAgainst": "[53,26,89,201,40,16,43,143,37,25]"
     },
     {
@@ -1383,7 +1383,7 @@
       "soundTextEN": "",
       "strongAgainst": "[161,117,1,223,63,78,432,201,43,89]",
       "video": "aalb4Js2Bmw",
-      "videoEN": "",
+      "videoEN": "Sv95nBi7ulQ",
       "weakAgainst": "[37,25,53,267,26,143,40,16,48,44]"
     },
     {
@@ -1519,5 +1519,5 @@
       "weakAgainst": ""
     }
   ],
-  "version": 14
+  "version": 15
 }
