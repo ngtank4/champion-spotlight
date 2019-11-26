@@ -1,0 +1,5901 @@
+[
+  [
+    {
+      "id": "AnnieQ",
+      "vars": [
+        {
+          "coeff": "70/115/160/205/250",
+          "key": "basedamage"
+        }
+      ]
+    },
+    {
+      "id": "AnnieW",
+      "vars": [
+        {
+          "coeff": "70/115/160/205/250",
+          "key": "basedamage"
+        }
+      ]
+    },
+    {
+      "id": "AnnieE",
+      "vars": [
+        {
+          "coeff": "10/13/16/19/22",
+          "key": "damagereduction"
+        },
+        {
+          "coeff": "3",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "20/30/40/50/60",
+          "key": "damagereflection"
+        },
+        {
+          "coeff": "30%-60%",
+          "key": "movespeedcalc"
+        },
+        {
+          "coeff": "1.5",
+          "key": "movementspeedduration"
+        }
+      ]
+    },
+    {
+      "id": "AnnieR",
+      "vars": [
+        {
+          "coeff": "150/275/400",
+          "key": "initialdamage"
+        },
+        {
+          "coeff": "10/15/20",
+          "key": "auradamage"
+        },
+        {
+          "coeff": "50/75/100",
+          "key": "tibbersattackdamage"
+        },
+        {
+          "coeff": "15% AP",
+          "key": "tibbersattackratio"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "OlafRagnarok",
+      "vars": [
+        {
+          "coeff": "20/30/40",
+          "key": "resists"
+        },
+        {
+          "coeff": "6",
+          "key": "duration"
+        },
+        {
+          "coeff": "20/45/70",
+          "key": "haste*100"
+        },
+        {
+          "coeff": "1",
+          "key": "hasteduration"
+        },
+        {
+          "coeff": "15/20/25 <scaleAD>(+30% AD)</scaleAD>",
+          "key": "ad"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GalioQ",
+      "vars": [
+        {
+          "coeff": "70/105/140/175/210 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "qmissiledamage"
+        },
+        {
+          "coeff": "2 <scaleAP>(+0.66% PERR 100 AP)</scaleAP>",
+          "key": "percentsuperqdamagett"
+        },
+        {
+          "coeff": "150",
+          "key": "superqmonstermaxdamage*3"
+        },
+        {
+          "coeff": "1.5",
+          "key": "superqduration"
+        }
+      ]
+    },
+    {
+      "id": "GalioW",
+      "vars": [
+        {
+          "coeff": "8/11/14/17/20% totalHealth",
+          "key": "f3"
+        },
+        {
+          "coeff": "8% PERR 100 bonusMr",
+          "key": "f2"
+        },
+        {
+          "coeff": "5% PERR 100 AP",
+          "key": "f4"
+        },
+        {
+          "coeff": "50",
+          "key": "f5"
+        },
+        {
+          "coeff": "20/35/50/65/80",
+          "key": "f8"
+        },
+        {
+          "coeff": "30% AP",
+          "key": "f9"
+        },
+        {
+          "coeff": "60/105/150/195/240",
+          "key": "f10"
+        },
+        {
+          "coeff": "90% AP",
+          "key": "f11"
+        }
+      ]
+    },
+    {
+      "id": "GalioE",
+      "vars": [
+        {
+          "coeff": "90/130/170/210/250 <scaleAP>(+90% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "knockupduration"
+        },
+        {
+          "coeff": "40/60/80/100/120 <scaleAP>(+45% AP)</scaleAP>",
+          "key": "pvedamage"
+        }
+      ]
+    },
+    {
+      "id": "GalioR",
+      "vars": [
+        {
+          "coeff": "150/250/350 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "stundurationouter"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "XinZhaoQ",
+      "vars": [
+        {
+          "coeff": "40% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "XinZhaoW",
+      "vars": [
+        {
+          "coeff": "0.5",
+          "key": "f5"
+        }
+      ]
+    },
+    {
+      "id": "XinZhaoR",
+      "vars": [
+        {
+          "coeff": "75/175/275 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "15",
+          "key": "percentcurrenthealthdamage*100"
+        },
+        {
+          "coeff": "3",
+          "key": "missiledefensebaseduration"
+        },
+        {
+          "coeff": "0.3",
+          "key": "bonusdurationperswing"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "UrgotW",
+      "vars": [
+        {
+          "coeff": "20/24/28/32/36% AD",
+          "key": "f3"
+        },
+        {
+          "coeff": "50",
+          "key": "onhitdamagereduction*100"
+        },
+        {
+          "coeff": "50",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "UrgotE",
+      "vars": [
+        {
+          "coeff": "60/80/100/120/140 <scaleAD>(+150% bonusAD)</scaleAD> <scaleHealth>(+15% bonusHealth)</scaleHealth>",
+          "key": "etotalshieldhealth"
+        },
+        {
+          "coeff": "4",
+          "key": "eshieldduration"
+        },
+        {
+          "coeff": "90/120/150/180/210 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "edamage"
+        }
+      ]
+    },
+    {
+      "id": "UrgotR",
+      "vars": [
+        {
+          "coeff": "100/225/350 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "rcalculateddamage"
+        },
+        {
+          "coeff": "4",
+          "key": "rslowduration"
+        },
+        {
+          "coeff": "75",
+          "key": "rmovespeedmod"
+        },
+        {
+          "coeff": "25",
+          "key": "rhealththreshold"
+        },
+        {
+          "coeff": "1.5",
+          "key": "rfearduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LeblancR",
+      "vars": [
+        {
+          "coeff": "70/140/210 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "rq1damage"
+        },
+        {
+          "coeff": "140/280/420 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "rq2damage"
+        },
+        {
+          "coeff": "150/300/450 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "rwdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "VladimirQ",
+      "vars": [
+        {
+          "coeff": "30 - 200",
+          "key": "f7"
+        },
+        {
+          "coeff": "4% PERR 100 AP",
+          "key": "f6"
+        }
+      ]
+    },
+    {
+      "id": "VladimirE",
+      "vars": [
+        {
+          "coeff": "2.5% totalHealth",
+          "key": "f2"
+        },
+        {
+          "coeff": "60/90/120/150/180",
+          "key": "e0"
+        },
+        {
+          "coeff": "6% totalHealth",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "VladimirHemoplague",
+      "vars": [
+        {
+          "coeff": "150/250/350",
+          "key": "f4"
+        },
+        {
+          "coeff": "70% AP",
+          "key": "f3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Drain",
+      "vars": [
+        {
+          "coeff": "400/525/650/775/900",
+          "key": "f1"
+        },
+        {
+          "coeff": "225% AP",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "Crowstorm",
+      "vars": [
+        {
+          "coeff": "1.5",
+          "key": "channeltime"
+        },
+        {
+          "coeff": "125/225/325",
+          "key": "damagepersecond"
+        },
+        {
+          "coeff": "5",
+          "key": "duration"
+        },
+        {
+          "coeff": "625/1125/1625 <scaleAP>(+225% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KayleQ",
+      "vars": [
+        {
+          "coeff": "60/100/140/180/220 <scaleAD>(+60% bonusAD)</scaleAD> <scaleAP>(+50% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "26/32/38/44/50",
+          "key": "slowpercent"
+        },
+        {
+          "coeff": "2",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "15",
+          "key": "shredpercent"
+        },
+        {
+          "coeff": "4",
+          "key": "shredduration"
+        },
+        {
+          "coeff": "50",
+          "key": "manarefundpercent*100"
+        }
+      ]
+    },
+    {
+      "id": "KayleW",
+      "vars": [
+        {
+          "coeff": "60/90/120/150/180 <scaleAP>(+30% AP)</scaleAP>",
+          "key": "totalheal"
+        },
+        {
+          "coeff": "24/28/32/36/40 <scaleAP>(+8% PERR 100 AP)</scaleAP>",
+          "key": "totalhaste"
+        },
+        {
+          "coeff": "2",
+          "key": "hasteduration"
+        }
+      ]
+    },
+    {
+      "id": "KayleE",
+      "vars": [
+        {
+          "coeff": "8/9/10/11/12% <scaleAP>(+1% PERR 50 AP)</scaleAP>",
+          "key": "activetotalexecutedamage"
+        },
+        {
+          "coeff": "15/20/25/30/35 <scaleAD>(+10% bonusAD)</scaleAD> <scaleAP>(+25% AP)</scaleAP>",
+          "key": "epassivetotaldamage"
+        },
+        {
+          "coeff": "6",
+          "key": "spell.kaylepassive:levelforpassiverank1"
+        }
+      ]
+    },
+    {
+      "id": "KayleR",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "invulnduration"
+        },
+        {
+          "coeff": "200/350/500 <scaleAD>(+100% bonusAD)</scaleAD> <scaleAP>(+80% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Highlander",
+      "vars": [
+        {
+          "coeff": "70",
+          "key": "rcooldownrefund*100"
+        },
+        {
+          "coeff": "35/45/55",
+          "key": "rmsbonus"
+        },
+        {
+          "coeff": "30/55/80",
+          "key": "rasbonus"
+        },
+        {
+          "coeff": "7",
+          "key": "rduration"
+        },
+        {
+          "coeff": "7",
+          "key": "rkillassistextension"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AlistarE",
+      "vars": [
+        {
+          "coeff": "8/11/14/17/20",
+          "key": "f1"
+        },
+        {
+          "coeff": "4% AP",
+          "key": "f2"
+        },
+        {
+          "coeff": "35 - 290",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "FerociousHowl",
+      "vars": [
+        {
+          "coeff": "7",
+          "key": "rduration"
+        },
+        {
+          "coeff": "55/65/75",
+          "key": "rdamagereduction"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RyzeQWrapper",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "maximumrunes"
+        },
+        {
+          "coeff": "4",
+          "key": "runeduration"
+        },
+        {
+          "coeff": "20/25/30/35/40",
+          "key": "movementspeedamount"
+        },
+        {
+          "coeff": "2",
+          "key": "movementspeedduration"
+        },
+        {
+          "coeff": "80/105/130/155/180 <scaleAP>(+45% AP)</scaleAP> <scaleMana>(+3% bonusMana)</scaleMana>",
+          "key": "qdamagecalc"
+        },
+        {
+          "coeff": " 10/40/70/100",
+          "key": "spell.ryzer:overloaddamagebonus"
+        }
+      ]
+    },
+    {
+      "id": "RyzeW",
+      "vars": [
+        {
+          "coeff": "80/100/120/140/160 <scaleAP>(+60% AP)</scaleAP> <scaleMana>(+4% bonusMana)</scaleMana>",
+          "key": "wdamagecalc"
+        },
+        {
+          "coeff": "35",
+          "key": "slowamount*100"
+        },
+        {
+          "coeff": "1.5",
+          "key": "ccduration"
+        }
+      ]
+    },
+    {
+      "id": "RyzeE",
+      "vars": [
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+30% AP)</scaleAP> <scaleMana>(+2% bonusMana)</scaleMana>",
+          "key": "edamagecalc"
+        },
+        {
+          "coeff": "4",
+          "key": "debuffduration"
+        }
+      ]
+    },
+    {
+      "id": "RyzeR",
+      "vars": [
+        {
+          "coeff": "40/70/100",
+          "key": "overloaddamagebonus"
+        },
+        {
+          "coeff": "2",
+          "key": "chargetimetooltip"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SionR",
+      "vars": [
+        {
+          "coeff": "150/300/450 <scaleAD>(+40% bonusAD)</scaleAD>",
+          "key": "mindamagetotal"
+        },
+        {
+          "coeff": "0.75",
+          "key": "minstunduration"
+        },
+        {
+          "coeff": "40/45/50",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "400/800/1200 <scaleAD>(+80% bonusAD)</scaleAD>",
+          "key": "maxdamagetotal"
+        },
+        {
+          "coeff": "1.75",
+          "key": "maxstunduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SivirQ",
+      "vars": [
+        {
+          "coeff": "35/55/75/95/115 <scaleAD>(+70/80/90/100/110% AD)</scaleAD> <scaleAP>(+50% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "15",
+          "key": "falloffratio*100"
+        },
+        {
+          "coeff": "40",
+          "key": "falloffminimum*100"
+        }
+      ]
+    },
+    {
+      "id": "SivirW",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "bounceattacks"
+        },
+        {
+          "coeff": "100% AD",
+          "key": "firsttargetdamage"
+        },
+        {
+          "coeff": "30/40/50/60/70% AD",
+          "key": "bouncedamage"
+        }
+      ]
+    },
+    {
+      "id": "SivirR",
+      "vars": [
+        {
+          "coeff": "30/45/60",
+          "key": "ricochetattackspeed*100"
+        },
+        {
+          "coeff": "8",
+          "key": "ultduration"
+        },
+        {
+          "coeff": "40/50/60",
+          "key": "maxms"
+        },
+        {
+          "coeff": "20",
+          "key": "minms"
+        },
+        {
+          "coeff": "2/3/4",
+          "key": "maxmsduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SorakaQ",
+      "vars": [
+        {
+          "coeff": "75/110/145/180/215 <scaleAP>(+35% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "30",
+          "key": "movespeedslow*100"
+        },
+        {
+          "coeff": "2",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "5",
+          "key": "hotduration"
+        },
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "totalhot"
+        },
+        {
+          "coeff": "15/20/25/30/35",
+          "key": "movespeedhaste*100"
+        },
+        {
+          "coeff": "3",
+          "key": "movespeedduration"
+        }
+      ]
+    },
+    {
+      "id": "SorakaW",
+      "vars": [
+        {
+          "coeff": "80/110/140/170/200 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totalheal"
+        },
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "spell.sorakaq:totalhot"
+        },
+        {
+          "coeff": "15/20/25/30/35",
+          "key": "spell.sorakaq:movespeedhaste*100"
+        },
+        {
+          "coeff": "5",
+          "key": "spell.sorakaq:movespeedhaste*100"
+        }
+      ]
+    },
+    {
+      "id": "SorakaE",
+      "vars": [
+        {
+          "coeff": "1.5",
+          "key": "rootdelay"
+        },
+        {
+          "coeff": "70/95/120/145/170 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1/1.25/1.5/1.75/2",
+          "key": "rootduration"
+        }
+      ]
+    },
+    {
+      "id": "SorakaR",
+      "vars": [
+        {
+          "coeff": "150/250/350 <scaleAP>(+55% AP)</scaleAP>",
+          "key": "healingcalc"
+        },
+        {
+          "coeff": "50",
+          "key": "healingampforlowhealthallies*100"
+        },
+        {
+          "coeff": "225/375/525 <scaleAP>(+82.5% AP)</scaleAP>",
+          "key": "ampedhealing"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "BlindingDart",
+      "vars": [
+        {
+          "coeff": "80/125/170/215/260 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "calculateddamage"
+        },
+        {
+          "coeff": "1.5/1.75/2/2.25/2.5",
+          "key": "blindduration"
+        }
+      ]
+    },
+    {
+      "id": "MoveQuick",
+      "vars": [
+        {
+          "coeff": "10/14/18/22/26",
+          "key": "passivemsbonus*100"
+        },
+        {
+          "coeff": "20/28/36/44/52",
+          "key": "msbuffduration"
+        }
+      ]
+    },
+    {
+      "id": "ToxicShot",
+      "vars": [
+        {
+          "coeff": "10/20/30/40/50 <scaleAP>(+30% AP)</scaleAP>",
+          "key": "impactcalculateddamage"
+        },
+        {
+          "coeff": "6/12/18/24/30 <scaleAP>(+10% AP)</scaleAP>",
+          "key": "tickcalculateddamage"
+        },
+        {
+          "coeff": "4",
+          "key": "poisonduration"
+        }
+      ]
+    },
+    {
+      "id": "TeemoRCast",
+      "vars": [
+        {
+          "coeff": "30/40/50",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "50/81.25/112.5 <scaleAP>(+12.5% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "4",
+          "key": "debuffduration"
+        },
+        {
+          "coeff": "5",
+          "key": "mushroomduration"
+        },
+        {
+          "coeff": "1",
+          "key": "armtime"
+        },
+        {
+          "coeff": "3/4/5",
+          "key": "maxammo"
+        },
+        {
+          "coeff": "300/400/500",
+          "key": "bouncedistance"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TristanaE",
+      "vars": [
+        {
+          "coeff": "50/70/90/110/130% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "TristanaR",
+      "vars": [
+        {
+          "coeff": "300/400/500 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "600/800/1000",
+          "key": "knockbackdistance"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "WarwickR",
+      "vars": [
+        {
+          "coeff": "1.5",
+          "key": "rduration"
+        },
+        {
+          "coeff": "175/350/525 <scaleAD>(+167% bonusAD)</scaleAD>",
+          "key": "damagecumulative"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NunuQ",
+      "vars": [
+        {
+          "coeff": "50",
+          "key": "lowhealthhealingscalar*100"
+        },
+        {
+          "coeff": "50",
+          "key": "lowhealththreshhold*100"
+        },
+        {
+          "coeff": "340/500/660/820/980",
+          "key": "monsterminiondamage"
+        },
+        {
+          "coeff": "75/110/145/180/215 <scaleAP>(+70% AP)</scaleAP> (+10% bonusHealth)",
+          "key": "monsterhealing"
+        },
+        {
+          "coeff": "60/100/140/180/220 <scaleAP>(+50% AP)</scaleAP> (+5% bonusHealth)",
+          "key": "totalchampiondamage"
+        },
+        {
+          "coeff": "60/88/116/144/172 <scaleAP>(+56% AP)</scaleAP> (+8% bonusHealth)",
+          "key": "championhealing"
+        }
+      ]
+    },
+    {
+      "id": "NunuW",
+      "vars": [
+        {
+          "coeff": "180/225/270/315/360 <scaleAP>(+150% AP)</scaleAP>",
+          "key": "maximumsnowballdamage"
+        },
+        {
+          "coeff": "1.25",
+          "key": "maximumstunduration"
+        }
+      ]
+    },
+    {
+      "id": "NunuE",
+      "vars": [
+        {
+          "coeff": "16/24/32/40/48 <scaleAP>(+6% AP)</scaleAP>",
+          "key": "totalsnowballdamage"
+        },
+        {
+          "coeff": "30/35/40/45/50",
+          "key": "slowamount*-100"
+        },
+        {
+          "coeff": "1",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "3",
+          "key": "totalspellduration"
+        },
+        {
+          "coeff": "20/30/40/50/60 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "totalrootdamage"
+        },
+        {
+          "coeff": "1.5",
+          "key": "rootduration"
+        }
+      ]
+    },
+    {
+      "id": "NunuR",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "channelduration"
+        },
+        {
+          "coeff": "50",
+          "key": "slowstartamount*-100"
+        },
+        {
+          "coeff": "95",
+          "key": "maxslowamount*-100"
+        },
+        {
+          "coeff": "65/75/85 (+30/40/50% bonusHealth)",
+          "key": "totalshieldamount"
+        },
+        {
+          "coeff": "3",
+          "key": "shielddecayduration"
+        },
+        {
+          "coeff": "625/950/1275 <scaleAP>(+250% AP)</scaleAP>",
+          "key": "maximumdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MissFortuneRicochetShot",
+      "vars": [
+        {
+          "coeff": "100",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "MissFortuneViciousStrikes",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "MissFortuneBulletTime",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "channelduration"
+        },
+        {
+          "coeff": "<scaleAD>75% AD</scaleAD> <scaleAP>(+20% AP)</scaleAP>",
+          "key": "damageperwave"
+        },
+        {
+          "coeff": "12/14/16",
+          "key": "waves"
+        },
+        {
+          "coeff": "20%",
+          "key": "critmultiplier"
+        },
+        {
+          "coeff": "<scaleAD>900/1050/1200% AD</scaleAD> <scaleAP>(+ 240/280/320% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AsheQ",
+      "vars": [
+        {
+          "coeff": "21/22/23/24/25%",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "Volley",
+      "vars": [
+        {
+          "coeff": "20/35/50/65/80 (+100% AD)",
+          "key": "totaldamage"
+        }
+      ]
+    },
+    {
+      "id": "EnchantedCrystalArrow",
+      "vars": [
+        {
+          "coeff": "200/400/600 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "rmaindamage"
+        },
+        {
+          "coeff": "3.5",
+          "key": "maxstunduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TryndamereQ",
+      "vars": [
+        {
+          "coeff": "1.2% AP",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "JaxRelentlessAssault",
+      "vars": [
+        {
+          "coeff": "100/140/180 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "30/50/70 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "armorcalc"
+        },
+        {
+          "coeff": "30/50/70 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "mrcalc"
+        },
+        {
+          "coeff": "8",
+          "key": "activeduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MorganaQ",
+      "vars": [
+        {
+          "coeff": "2/2.25/2.5/2.75/3",
+          "key": "rootduration"
+        },
+        {
+          "coeff": "80/135/190/245/300 <scaleAP>(+90% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    },
+    {
+      "id": "MorganaW",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "wduration"
+        },
+        {
+          "coeff": "12/24/36/48 60 <scaleAP>(+14% AP)</scaleAP>",
+          "key": "totalmindamage"
+        },
+        {
+          "coeff": "170",
+          "key": "missinghealthamppercent*100"
+        },
+        {
+          "coeff": "5",
+          "key": "cdrefundpercent*100"
+        }
+      ]
+    },
+    {
+      "id": "MorganaE",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "60/120/180/240/300 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "totalshieldstrength"
+        }
+      ]
+    },
+    {
+      "id": "MorganaR",
+      "vars": [
+        {
+          "coeff": "150/225/300 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "20",
+          "key": "slowpercent"
+        },
+        {
+          "coeff": "3",
+          "key": "chainduration"
+        },
+        {
+          "coeff": "1.5",
+          "key": "stunduration"
+        },
+        {
+          "coeff": "5/30/55",
+          "key": "hastepercent"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ChronoShift",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "rduration"
+        },
+        {
+          "coeff": "600/850/1100 <scaleAP>(+200% AP)</scaleAP>",
+          "key": "rtotalheal"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "PoisonTrail",
+      "vars": [
+        {
+          "coeff": "40% AP",
+          "key": "charabilitypower*4"
+        }
+      ]
+    },
+    {
+      "id": "InsanityPotion",
+      "vars": [
+        {
+          "coeff": "30/60/90",
+          "key": "statamount"
+        },
+        {
+          "coeff": "25",
+          "key": "duration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "EvelynnW",
+      "vars": [
+        {
+          "coeff": "4",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "EvelynnE",
+      "vars": [
+        {
+          "coeff": "75/100/125/150/175",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "EvelynnR",
+      "vars": [
+        {
+          "coeff": "300/600/900",
+          "key": "f1"
+        },
+        {
+          "coeff": "180% AP",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TwitchExpunge",
+      "vars": [
+        {
+          "coeff": "35% bonusAD",
+          "key": "f1"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KarthusDefile",
+      "vars": [
+        {
+          "coeff": "30/42/54/66/78",
+          "key": "cost"
+        }
+      ]
+    },
+    {
+      "id": "KarthusFallenOne",
+      "vars": [
+        {
+          "coeff": "200/350/500 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "VorpalSpikes",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "Feast",
+      "vars": [
+        {
+          "coeff": "300/475/650 <scaleAP>(+50% AP)</scaleAP> <scaleHealth>(+10% bonusHealth)</scaleHealth>",
+          "key": "rdamage"
+        },
+        {
+          "coeff": "1000",
+          "key": "rmonsterdamage"
+        },
+        {
+          "coeff": "80/120/160 bonusHealth",
+          "key": "rhealthperstack"
+        },
+        {
+          "coeff": "6",
+          "key": "rminionmaxstacks"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Tantrum",
+      "vars": [
+        {
+          "coeff": "3% bonusArmor",
+          "key": "f1"
+        },
+        {
+          "coeff": "3% bonusMr",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "CurseoftheSadMummy",
+      "vars": [
+        {
+          "coeff": "150/250/350 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "rcalculateddamage"
+        },
+        {
+          "coeff": "2",
+          "key": "rduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "PowerBall",
+      "vars": [
+        {
+          "coeff": "25 − 39.17",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "Tremors2",
+      "vars": [
+        {
+          "coeff": "8",
+          "key": "duration"
+        },
+        {
+          "coeff": "30/60/90",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "8/10/12",
+          "key": "slowperstack*100"
+        },
+        {
+          "coeff": "1.5",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "8",
+          "key": "numberofpulses"
+        },
+        {
+          "coeff": "200",
+          "key": "turretdamagemodifier*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "FlashFrost",
+      "vars": [
+        {
+          "coeff": "20-40",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "GlacialStorm",
+      "vars": [
+        {
+          "coeff": "75 + 40/50/60",
+          "key": "manacostpersecond"
+        },
+        {
+          "coeff": "1.5",
+          "key": "growthtime"
+        },
+        {
+          "coeff": "40/60/80 <scaleAP>(+12.5% AP)</scaleAP>",
+          "key": "totaldamagepersecond"
+        },
+        {
+          "coeff": "20/30/40",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "50",
+          "key": "enhancedslow"
+        },
+        {
+          "coeff": "200",
+          "key": "bonusmultiplier"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Deceive",
+      "vars": [
+        {
+          "coeff": "2.5/2.75/3/3.25/3.5",
+          "key": "stealthduration"
+        },
+        {
+          "coeff": "25/35/45/55/65 <scaleAD>(+25% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "130",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "JackInTheBox",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "minionfearduration"
+        },
+        {
+          "coeff": "15/20/25/30/35 <scaleAP>(+10% AP)</scaleAP>",
+          "key": "aoedamage"
+        }
+      ]
+    },
+    {
+      "id": "TwoShivPoison",
+      "vars": [
+        {
+          "coeff": "20/22.5/25/27.5/30",
+          "key": "slowamount*-100"
+        },
+        {
+          "coeff": "2",
+          "key": "slowdurationpassive"
+        },
+        {
+          "coeff": "70/95/120/145/170 <scaleAD>(+80% bonusAD)</scaleAD> <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "3",
+          "key": "slowdurationactive"
+        },
+        {
+          "coeff": "30",
+          "key": "executehealththreshold*100"
+        },
+        {
+          "coeff": "105/142.5/180/217.5/255 <scaleAD>(+120% bonusAD)</scaleAD> <scaleAP>(+90% AP)</scaleAP>",
+          "key": "executedamagepercent*100"
+        }
+      ]
+    },
+    {
+      "id": "HallucinateFull",
+      "vars": [
+        {
+          "coeff": "10/20/30 <scaleAP>(+10% AP)</scaleAP>",
+          "key": "aoedamage"
+        },
+        {
+          "coeff": "25/50/75 <scaleAP>(+15% AP)</scaleAP>",
+          "key": "stdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "InfectedCleaverMissileCast",
+      "vars": [
+        {
+          "coeff": "20/24/28/32/36",
+          "key": "f1"
+        },
+        {
+          "coeff": "40/48/56/64/72",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "Masochism",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "e0"
+        },
+        {
+          "coeff": "",
+          "key": "f1"
+        },
+        {
+          "coeff": "6/15/24/33/42%",
+          "key": "f3*100"
+        },
+        {
+          "coeff": "0.2/0.35/0.5/0.65/0.8",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "Sadism",
+      "vars": [
+        {
+          "coeff": "",
+          "key": "f1"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SonaE",
+      "vars": [
+        {
+          "coeff": "8",
+          "key": "f1*100"
+        },
+        {
+          "coeff": "3",
+          "key": "f2*100"
+        },
+        {
+          "coeff": "10/11/12/13/14% <scaleAP>(+3% PERR 100 AP)</scaleAP>",
+          "key": "f3*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RiftWalk",
+      "vars": [
+        {
+          "coeff": "2% maxMana",
+          "key": "f2"
+        },
+        {
+          "coeff": "1% maxMana",
+          "key": "f1"
+        },
+        {
+          "coeff": "10% AP",
+          "key": "f3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "IreliaQ",
+      "vars": [
+        {
+          "coeff": "5/25/45/65/85 <scaleAD>(+60% AD)</scaleAD>",
+          "key": "championdamage"
+        },
+        {
+          "coeff": "12/14/16/18/20% AD",
+          "key": "healamount"
+        },
+        {
+          "coeff": "55/75/95/115/135",
+          "key": "miniondamage"
+        }
+      ]
+    },
+    {
+      "id": "IreliaW",
+      "vars": [
+        {
+          "coeff": "50 <scaleAP>(+7% PERR 100 AP)</scaleAP>",
+          "key": "finalphysicaldr"
+        },
+        {
+          "coeff": "10/25/40/55/70 <scaleAD>(+50% AD)</scaleAD> <scaleAP>(+40% AP)</scaleAP>",
+          "key": "mindamagecalc"
+        },
+        {
+          "coeff": "20/50/80/110/140 <scaleAD>(+100% AD)</scaleAD> <scaleAP>(+80% AP)</scaleAP>",
+          "key": "maxdamagecalc"
+        },
+        {
+          "coeff": "0.75",
+          "key": "chargetimeformax"
+        }
+      ]
+    },
+    {
+      "id": "IreliaE",
+      "vars": [
+        {
+          "coeff": "70/110/150/190/230 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "stunduration"
+        },
+        {
+          "coeff": "5",
+          "key": "markduration"
+        }
+      ]
+    },
+    {
+      "id": "IreliaR",
+      "vars": [
+        {
+          "coeff": "125/225/325 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "missiledamage"
+        },
+        {
+          "coeff": "5",
+          "key": "markduration"
+        },
+        {
+          "coeff": "2.5",
+          "key": "zoneduration"
+        },
+        {
+          "coeff": "125/200/275 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "zonedamage"
+        },
+        {
+          "coeff": "90",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "1.5",
+          "key": "ccduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SowTheWind",
+      "vars": [
+        {
+          "coeff": "25/35% moveSpeed",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "EyeOfTheStorm",
+      "vars": [
+        {
+          "coeff": "20",
+          "key": "ecdrefundforcc*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GangplankE",
+      "vars": [
+        {
+          "coeff": "40",
+          "key": "e0"
+        },
+        {
+          "coeff": "2/1/0.5",
+          "key": "f5"
+        }
+      ]
+    },
+    {
+      "id": "GangplankR",
+      "vars": [
+        {
+          "coeff": "12",
+          "key": "f3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "CarpetBomb",
+      "vars": [
+        {
+          "coeff": "7.5 - 25",
+          "key": "f1"
+        },
+        {
+          "coeff": "37.5% bonusAD",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "MissileBarrage",
+      "vars": [
+        {
+          "coeff": "90/115/140 <scaleAD>(+15/45/75% AD)</scaleAD> <scaleAP>(+20% AP)</scaleAP>",
+          "key": "rsmallmissiledamage"
+        },
+        {
+          "coeff": "100",
+          "key": "rbigonemultiplier*100"
+        },
+        {
+          "coeff": "180/230/280 <scaleAD>(+30/90/150% AD)</scaleAD> <scaleAP>(+40% AP)</scaleAP>",
+          "key": "rbigmissiledamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KarmaQ",
+      "vars": [
+        {
+          "coeff": "50",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "KarmaSpiritBind",
+      "vars": [
+        {
+          "coeff": "30/55/80/105/130",
+          "key": "effect1amount*0.5"
+        },
+        {
+          "coeff": "45% AP",
+          "key": "f4"
+        },
+        {
+          "coeff": "1% PERR 100 AP",
+          "key": "f1"
+        },
+        {
+          "coeff": "0.5/0.75/1/1.25",
+          "key": "f2"
+        },
+        {
+          "coeff": "1% PERR 100 AP",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "KarmaSolKimShield",
+      "vars": [
+        {
+          "coeff": "30",
+          "key": "f2"
+        },
+        {
+          "coeff": "40/45/50/55/60",
+          "key": "f3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TaricQ",
+      "vars": [
+        {
+          "coeff": "100% AP",
+          "key": "f3"
+        },
+        {
+          "coeff": "5% totalHealth",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "TaricE",
+      "vars": [
+        {
+          "coeff": "50% bonusArmor",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "TaricR",
+      "vars": [
+        {
+          "coeff": "2.5",
+          "key": "initialdelay"
+        },
+        {
+          "coeff": "2.5",
+          "key": "invulnduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TrundlePain",
+      "vars": [
+        {
+          "coeff": "20/27.5/35% <scaleAP>(+2% PERR 100 AP)</scaleAP>",
+          "key": "totalpercenthpdamage"
+        },
+        {
+          "coeff": "40",
+          "key": "armormrshred*100"
+        },
+        {
+          "coeff": "5",
+          "key": "actualdurationofdrainbuff"
+        },
+        {
+          "coeff": "4",
+          "key": "durationofdrainfortooltip"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SwainW",
+      "vars": [
+        {
+          "coeff": "3500",
+          "key": "castrange"
+        }
+      ]
+    },
+    {
+      "id": "SwainR",
+      "vars": [
+        {
+          "coeff": "12",
+          "key": "demonformduration"
+        },
+        {
+          "coeff": "150/275/400",
+          "key": "basehealthgain"
+        },
+        {
+          "coeff": "35/50/65 <scaleAP>(+14.167% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "20/35/50 <scaleAP>(+16% AP)</scaleAP>",
+          "key": "healingcalc"
+        },
+        {
+          "coeff": "125/300/450",
+          "key": "f7"
+        },
+        {
+          "coeff": "45/60/75 <scaleAP>(+21% AP)</scaleAP>",
+          "key": "damagepersoulcalc"
+        },
+        {
+          "coeff": "20",
+          "key": "minionmonsterhealreduction*100"
+        },
+        {
+          "coeff": "100/150/200 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "minimumdemonflaredamagetotal"
+        },
+        {
+          "coeff": "75",
+          "key": "healtodamagepercent*100"
+        },
+        {
+          "coeff": "200/300/400 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "demonflaredamagetotal"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "CaitlynPiltoverPeacemaker",
+      "vars": [
+        {
+          "coeff": "130/140/150/160/170% AD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "CaitlynYordleTrap",
+      "vars": [
+        {
+          "coeff": "40/55/70/85/100% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "CaitlynAceintheHole",
+      "vars": [
+        {
+          "coeff": "3500",
+          "key": "castrange"
+        },
+        {
+          "coeff": "300/525/750 <scaleAD>(+200% bonusAD)</scaleAD>",
+          "key": "rtotaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RocketGrab",
+      "vars": [
+        {
+          "coeff": "70/120/170/220/270 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    },
+    {
+      "id": "Overdrive",
+      "vars": [
+        {
+          "coeff": "70/75/80/85/90",
+          "key": "initialms"
+        }
+      ]
+    },
+    {
+      "id": "StaticField",
+      "vars": [
+        {
+          "coeff": "50/100/150 <scaleAP>(+30% AP)</scaleAP>",
+          "key": "passivedamage"
+        },
+        {
+          "coeff": "250/375/500 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "activedamage"
+        },
+        {
+          "coeff": "3",
+          "key": "maxstacks"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Obduracy",
+      "vars": [
+        {
+          "coeff": "30/45/60/75/90 <scaleAP>(+20% AP)</scaleAP> <scaleArmor>(+15% arrmorr)</scaleArmor>",
+          "key": "totalbonusdamage"
+        },
+        {
+          "coeff": "10/20/30/40/50 <scaleAP>(+20% AP)</scaleAP> <scaleArmor>(+10% arrmorr)</scaleArmor>",
+          "key": "thunderclapsplash"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KatarinaEWrapper",
+      "vars": [
+        {
+          "coeff": "78/84/90/96",
+          "key": "f3*100"
+        }
+      ]
+    },
+    {
+      "id": "KatarinaR",
+      "vars": [
+        {
+          "coeff": "25/37.5/50 <scaleAD>(+22% bonusAD)</scaleAD> <scaleAP>(+19% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "2.5",
+          "key": "duration"
+        },
+        {
+          "coeff": "375/562.5/750 <scaleAD>(+330% bonusAD)</scaleAD> <scaleAP>(+285% AP)</scaleAP>",
+          "key": "totaldamagecalc"
+        },
+        {
+          "coeff": "60",
+          "key": "grievousamount*-100"
+        },
+        {
+          "coeff": "3",
+          "key": "grievousduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NocturneParanoia",
+      "vars": [
+        {
+          "coeff": "6",
+          "key": "paranoiaduration"
+        },
+        {
+          "coeff": "50/275/400 <scaleAD>(+120% bonusAD)</scaleAD>",
+          "key": "damage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MaokaiE",
+      "vars": [
+        {
+          "coeff": "30",
+          "key": "f1"
+        },
+        {
+          "coeff": "30 (+2.5% bonusHealth)",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "MaokaiR",
+      "vars": [
+        {
+          "coeff": "0.8",
+          "key": "minrootduration"
+        },
+        {
+          "coeff": "2.6",
+          "key": "maxrootduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RenektonCleave",
+      "vars": [
+        {
+          "coeff": "8% bonusAD",
+          "key": "f4"
+        },
+        {
+          "coeff": "36/54/72/90/108",
+          "key": "f5"
+        },
+        {
+          "coeff": "48% bonusAD",
+          "key": "f6"
+        },
+        {
+          "coeff": "12/18/24/30/36",
+          "key": "f2"
+        },
+        {
+          "coeff": "16% bonusAD",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "RenektonPreExecute",
+      "vars": [
+        {
+          "coeff": "225% bonusAD",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "RenektonSliceAndDice",
+      "vars": [
+        {
+          "coeff": "30",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "RenektonReignOfTheTyrant",
+      "vars": [
+        {
+          "coeff": "15",
+          "key": "buffduration"
+        },
+        {
+          "coeff": "250/500/750",
+          "key": "healthgain"
+        },
+        {
+          "coeff": "20",
+          "key": "furyoncast"
+        },
+        {
+          "coeff": "20/40/60 <scaleAP>(+10% AP)</scaleAP>",
+          "key": "totaldamagepersecond"
+        },
+        {
+          "coeff": "5",
+          "key": "furypersecond"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "JarvanIVCataclysm",
+      "vars": [
+        {
+          "coeff": "200/325/450 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "3.5",
+          "key": "wallduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "OrianaDetonateCommand",
+      "vars": [
+        {
+          "coeff": "200/275/350 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MonkeyKingSpinToWin",
+      "vars": [
+        {
+          "coeff": "20/110/200 <scaleAD>(+110% AD)</scaleAD>",
+          "key": "damagepersecondtotal"
+        },
+        {
+          "coeff": "1",
+          "key": "knockupduration"
+        },
+        {
+          "coeff": "15",
+          "key": "movespeedbonus*100"
+        },
+        {
+          "coeff": "10",
+          "key": " movespeedpersecond*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "BrandR",
+      "vars": [
+        {
+          "coeff": "100/200/300 <scaleAP>(+25% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "30/45/60",
+          "key": "slowamount"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "BlindMonkRKick",
+      "vars": [
+        {
+          "coeff": "175/400/625 <scaleAD>(+200% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "12/15/18",
+          "key": "percenthpcarrythrough"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "VayneTumble",
+      "vars": [
+        {
+          "coeff": "",
+          "key": "adratiobonus"
+        },
+        {
+          "coeff": "7",
+          "key": "duration"
+        },
+        {
+          "coeff": "<scaleAD>50/55/60/65/70% AD</scaleAD",
+          "key": "totaladratio*100"
+        }
+      ]
+    },
+    {
+      "id": "VayneSilveredBolts",
+      "vars": [
+        {
+          "coeff": "4/6.5/9/11.5/14",
+          "key": "maxhealthratio*100"
+        },
+        {
+          "coeff": "50/65/80/95/110",
+          "key": "damagefloor"
+        },
+        {
+          "coeff": "200",
+          "key": "damagemaxvsmonsters"
+        }
+      ]
+    },
+    {
+      "id": "VayneCondemn",
+      "vars": [
+        {
+          "coeff": "50/85/120/155/190 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "150",
+          "key": "stundamage*100"
+        },
+        {
+          "coeff": "1.5",
+          "key": "stunduration"
+        }
+      ]
+    },
+    {
+      "id": "VayneInquisition",
+      "vars": [
+        {
+          "coeff": "25/40/55",
+          "key": "bonusattackdamage"
+        },
+        {
+          "coeff": "8/10/12",
+          "key": "baseduration"
+        },
+        {
+          "coeff": "4",
+          "key": "durationtoadd"
+        },
+        {
+          "coeff": "3",
+          "key": "damagedmarkerduration"
+        },
+        {
+          "coeff": "90",
+          "key": "movementspeed"
+        },
+        {
+          "coeff": "30/40/50",
+          "key": "tumblecdreduction"
+        },
+        {
+          "coeff": "1",
+          "key": "tumblestealthduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RumbleCarpetBomb",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "trailduration,e5"
+        },
+        {
+          "coeff": "35",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "140/210/280 <scaleAP>(+35% AP)</scaleAP>",
+          "key": "damagepersecond"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "CassiopeiaE",
+      "vars": [
+        {
+          "coeff": "40/45/50/55/60",
+          "key": "cost"
+        },
+        {
+          "coeff": "5-22",
+          "key": "f4"
+        },
+        {
+          "coeff": "10% AP",
+          "key": "f2"
+        },
+        {
+          "coeff": "<scaleAP>13/16/19/22/25</scaleAP>",
+          "key": "healratio*100"
+        },
+        {
+          "coeff": "75",
+          "key": "minionreductionmodifier*100"
+        }
+      ]
+    },
+    {
+      "id": "CassiopeiaR",
+      "vars": [
+        {
+          "coeff": "15/250/350 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "rdamage"
+        },
+        {
+          "coeff": "2",
+          "key": "rccduration"
+        },
+        {
+          "coeff": "40",
+          "key": "rslowpercent"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SkarnerImpale",
+      "vars": [
+        {
+          "coeff": "1.75",
+          "key": "rduration"
+        },
+        {
+          "coeff": "60% AD",
+          "key": "physicaldamage"
+        },
+        {
+          "coeff": "20/60/100 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "magicdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "HeimerdingerQ",
+      "vars": [
+        {
+          "coeff": "20",
+          "key": "kitcooldown"
+        },
+        {
+          "coeff": "3",
+          "key": "maxkits"
+        }
+      ]
+    },
+    {
+      "id": "HeimerdingerW",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "rockets"
+        },
+        {
+          "coeff": "60/90/120/150/180 <scaleAP>(+45% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "12/18/24/30/36 <scaleAP>(+12% AP)</scaleAP>",
+          "key": "extrahitdamage"
+        },
+        {
+          "coeff": "108/162/216/270/324 <scaleAP>(+93% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "36/54/72/90/108 <scaleAP>(+35.75% AP)</scaleAP>",
+          "key": "extrahitdamageminions"
+        }
+      ]
+    },
+    {
+      "id": "HeimerdingerE",
+      "vars": [
+        {
+          "coeff": "60/100/140/180/220 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "35",
+          "key": "slowpercent.0*100"
+        },
+        {
+          "coeff": "2",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "1.5",
+          "key": "stunduration"
+        }
+      ]
+    },
+    {
+      "id": "HeimerdingerR",
+      "vars": [
+        {
+          "coeff": "135/180/225 <scaleAP>(+45% AP)</scaleAP>",
+          "key": "wultbasedamage"
+        },
+        {
+          "coeff": "2700/3600/4500 <scaleAP>(+900% AP)</scaleAP>",
+          "key": "wulttotaldamage"
+        },
+        {
+          "coeff": "80/100/120 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "qultdamage"
+        },
+        {
+          "coeff": "100/140/180 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "qultdamagebeam"
+        },
+        {
+          "coeff": "150/250/350 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "eultdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NasusR",
+      "vars": [
+        {
+          "coeff": "300/450/600",
+          "key": "bonushealth"
+        },
+        {
+          "coeff": "15/35/55",
+          "key": "initialresistgain"
+        },
+        {
+          "coeff": "3/4/5% <scaleAP>(+1%/100 AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "240",
+          "key": "maxdamagecap"
+        },
+        {
+          "coeff": "1/2/3",
+          "key": "statgainpersecond"
+        },
+        {
+          "coeff": "50",
+          "key": "qcdr*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "Bushwhack",
+      "vars": [
+        {
+          "coeff": "4/6/8/10",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "PrimalSurge",
+      "vars": [
+        {
+          "coeff": "65% AP",
+          "key": "f3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "UdyrPhoenixStance",
+      "vars": [
+        {
+          "coeff": "50/95/140/185/230/275 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totalconedamage"
+        },
+        {
+          "coeff": "10/20/30/40/50/60 <scaleAP>(+25% AP)</scaleAP>",
+          "key": "totalaoedamagepertick"
+        },
+        {
+          "coeff": "4",
+          "key": "phoenixaoeduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "PoppyW",
+      "vars": [
+        {
+          "coeff": "25",
+          "key": "slowamount*-100"
+        },
+        {
+          "coeff": "2",
+          "key": "groundingduration"
+        }
+      ]
+    },
+    {
+      "id": "PoppyR",
+      "vars": [
+        {
+          "coeff": "4",
+          "key": "channelmaxduration"
+        },
+        {
+          "coeff": "15",
+          "key": "selfslow"
+        },
+        {
+          "coeff": "200/300/400 <scaleAD>(+90% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "knockupdurationsnap"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GragasW",
+      "vars": [
+        {
+          "coeff": "4% PERR AP",
+          "key": "charabilitypower2*100"
+        }
+      ]
+    },
+    {
+      "id": "GragasE",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "GragasR",
+      "vars": [
+        {
+          "coeff": "200/300/400",
+          "key": "basedamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "PantheonQ",
+      "vars": [
+        {
+          "coeff": "75/110/145/180/215 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "tapdamagecalc"
+        },
+        {
+          "coeff": "50",
+          "key": "tapcooldownrefund*100"
+        },
+        {
+          "coeff": "75/115/155/195/235 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "holddamagecalc"
+        },
+        {
+          "coeff": "50",
+          "key": "damagefalloff*100"
+        },
+        {
+          "coeff": "155/240/325/410/495 <scaleAD>(+200% bonusAD)</scaleAD>",
+          "key": "executedamagecalcmodified"
+        },
+        {
+          "coeff": "20",
+          "key": "crithealththreshold*100"
+        },
+        {
+          "coeff": "<scaleLevel>20-241</scaleLevel>",
+          "key": "empowereddamagecalc"
+        },
+        {
+          "coeff": "20/25/30/35/40",
+          "key": "slowamount*100"
+        },
+        {
+          "coeff": "2.5",
+          "key": "slowduration"
+        }
+      ]
+    },
+    {
+      "id": "PantheonW",
+      "vars": [
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "1",
+          "key": "stunduration"
+        },
+        {
+          "coeff": "50",
+          "key": "damagefalloff*100"
+        },
+        {
+          "coeff": "3",
+          "key": "empowerednumhits"
+        },
+        {
+          "coeff": "135-165%",
+          "key": "empowereddamagemultcalcmodified"
+        }
+      ]
+    },
+    {
+      "id": "PantheonE",
+      "vars": [
+        {
+          "coeff": "1.5",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "100% AD",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "55/105/155/205/255 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "shielddamagecalc"
+        },
+        {
+          "coeff": "2.5",
+          "key": "empoweredshieldduration"
+        },
+        {
+          "coeff": "166.6% AD",
+          "key": "empowereddamagecalc"
+        }
+      ]
+    },
+    {
+      "id": "PantheonR",
+      "vars": [
+        {
+          "coeff": "300/500/700 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "50",
+          "key": "edgedamagereduction*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "EzrealQ",
+      "vars": [
+        {
+          "coeff": "15/40/65/90/115 <scaleAD>(+110% AD)</scaleAD> <scaleAP>(+15% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "1.5",
+          "key": "cdrefund"
+        }
+      ]
+    },
+    {
+      "id": "EzrealW",
+      "vars": [
+        {
+          "coeff": " 4",
+          "key": "detonationtimeou"
+        },
+        {
+          "coeff": "80/135/190/245/300 <scaleAD>(+60% bonusAD)</scaleAD> <scaleAP>(+70/75/80/85/90% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "60",
+          "key": "manareturn"
+        }
+      ]
+    },
+    {
+      "id": "EzrealE",
+      "vars": [
+        {
+          "coeff": "80/130/180/230/280 <scaleAD>(+50% bonusAD)</scaleAD> <scaleAP>(+75% AP)</scaleAP>",
+          "key": "damage"
+        }
+      ]
+    },
+    {
+      "id": "EzrealR",
+      "vars": [
+        {
+          "coeff": "350/500/650 <scaleAD>(+100% bonusAD)</scaleAD> <scaleAP>(+90% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "50",
+          "key": "damagereductionwaveclear.0*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MordekaiserQ",
+      "vars": [
+        {
+          "coeff": "5−139 (+75/95/115/135/155) <scaleAP>(+60% AP)</scaleAP>",
+          "key": "qdamage"
+        },
+        {
+          "coeff": "20/25/30/35/40",
+          "key": "isolationtooltip*100"
+        }
+      ]
+    },
+    {
+      "id": "MordekaiserW",
+      "vars": [
+        {
+          "coeff": "35",
+          "key": "damageconversion*100"
+        },
+        {
+          "coeff": "15",
+          "key": "damagetakenconversion*100"
+        },
+        {
+          "coeff": "40/42.5/45/47.5/50",
+          "key": "healingpercent*100"
+        }
+      ]
+    },
+    {
+      "id": "MordekaiserE",
+      "vars": [
+        {
+          "coeff": "5/7.5/10/12.5/15",
+          "key": "magicpen*100"
+        },
+        {
+          "coeff": "80/95/110/125/140 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    },
+    {
+      "id": "MordekaiserR",
+      "vars": [
+        {
+          "coeff": "7",
+          "key": "spiritrealmduration"
+        },
+        {
+          "coeff": "10",
+          "key": "statstealpercentscalar*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "YorickQ",
+      "vars": [
+        {
+          "coeff": "<scaleLevel>12 - 82</scaleLevel>",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "YorickR",
+      "vars": [
+        {
+          "coeff": "2/3/4",
+          "key": "rghoulnumbers"
+        },
+        {
+          "coeff": "300/1000/3000 <scaleHealth>(+70% totalHealth)</scaleHealth>",
+          "key": "yorickbigghoulhealth"
+        },
+        {
+          "coeff": "3/6/9",
+          "key": "rmarkdamagepercent"
+        },
+        {
+          "coeff": "0/10/40 <scaleAD>(+50% AD)</scaleAD>",
+          "key": "yorickbigghouldamage"
+        },
+        {
+          "coeff": "2",
+          "key": "rproccd"
+        },
+        {
+          "coeff": "25000",
+          "key": "rcontroltime"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AkaliQ",
+      "vars": [
+        {
+          "coeff": "25/50/75/100/125 <scaleAD>(+65% AD)</scaleAD> <scaleAP>(+60% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "33%",
+          "key": "miniondamage"
+        }
+      ]
+    },
+    {
+      "id": "AkaliW",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "baseduration"
+        }
+      ]
+    },
+    {
+      "id": "AkaliE",
+      "vars": [
+        {
+          "coeff": "40/70/100/130/160 <scaleAD>(+35% AD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "40/70/100/130/160 <scaleAD>(+35% AD)</scaleAD> <scaleAP>(+50% AP)</scaleAP>",
+          "key": "e2damagecalc"
+        }
+      ]
+    },
+    {
+      "id": "AkaliR",
+      "vars": [
+        {
+          "coeff": "85/150/215 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "cast1damage"
+        },
+        {
+          "coeff": "2.5",
+          "key": "cooldownbetweencasts"
+        },
+        {
+          "coeff": "65/140/215 <scaleAP>(+30% AP)</scaleAP>",
+          "key": "cast2damagemin"
+        },
+        {
+          "coeff": "225/450/645 <scaleAP>(+90% AP)</scaleAP>",
+          "key": "cast2damagemax"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KennenBringTheLight",
+      "vars": [
+        {
+          "coeff": "60/70/80/90/100% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "KennenLightningRush",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "duration - as ball"
+        },
+        {
+          "coeff": "80/120/160/200/240",
+          "key": "base damage"
+        },
+        {
+          "coeff": "100",
+          "key": "movement speed*100"
+        },
+        {
+          "coeff": "40",
+          "key": "energy refund"
+        },
+        {
+          "coeff": "40/50/60/70/80",
+          "key": "attack speed*100"
+        },
+        {
+          "coeff": "4",
+          "key": "duration - after ball"
+        },
+        {
+          "coeff": "50",
+          "key": "damage to minions*100"
+        }
+      ]
+    },
+    {
+      "id": "KennenShurikenStorm",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "kennenrduration"
+        },
+        {
+          "coeff": "20/40/60",
+          "key": "kennenrdefenses"
+        },
+        {
+          "coeff": "40/75/110 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "pertickdamagecalculated"
+        },
+        {
+          "coeff": "0.5",
+          "key": "kennenrtickrate"
+        },
+        {
+          "coeff": "10",
+          "key": "damageamp*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GarenQ",
+      "vars": [
+        {
+          "coeff": "30",
+          "key": "movementspeedamount*100"
+        },
+        {
+          "coeff": "1.5/2/2.5/3/3.5",
+          "key": "movementspeedduration"
+        },
+        {
+          "coeff": "4.5",
+          "key": "attackwindow"
+        },
+        {
+          "coeff": "30/60/90/120/150 <scaleAD>(+40% AD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1.5",
+          "key": "silenceduration"
+        }
+      ]
+    },
+    {
+      "id": "GarenW",
+      "vars": [
+        {
+          "coeff": "0.25",
+          "key": "resistgainonkill"
+        },
+        {
+          "coeff": "30",
+          "key": "resistmax"
+        },
+        {
+          "coeff": "2/2.75/3.5/4.25/5",
+          "key": "drduration"
+        },
+        {
+          "coeff": "30",
+          "key": "drpercent*100"
+        },
+        {
+          "coeff": "0.75",
+          "key": "upfrontduration"
+        },
+        {
+          "coeff": "10 totalHealth",
+          "key": "totalshield"
+        },
+        {
+          "coeff": "60",
+          "key": "upfronttenacity*100"
+        }
+      ]
+    },
+    {
+      "id": "GarenE",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "duration"
+        },
+        {
+          "coeff": "4/8/12/16/20 <scaleLevel>(+0.8−2)</scaleLevel> <scaleAD>(+32/34/36/38/40% AD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "7",
+          "key": "f1"
+        },
+        {
+          "coeff": "10/15/20/25/30 <scaleLevel>(+0−10)</scaleLevel> <scaleAD>(+40/42.5/45/47.5/50% AD)</scaleAD>",
+          "key": "totaldamagenearest"
+        },
+        {
+          "coeff": "6",
+          "key": "stackstoshred"
+        },
+        {
+          "coeff": "25",
+          "key": "shredamount*100"
+        },
+        {
+          "coeff": "6",
+          "key": "shredduration"
+        }
+      ]
+    },
+    {
+      "id": "GarenR",
+      "vars": [
+        {
+          "coeff": "150/300/450",
+          "key": "basedamage"
+        },
+        {
+          "coeff": "20/25/30",
+          "key": "executedamage*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LeonaSolarBarrier",
+      "vars": [
+        {
+          "coeff": "8/12/16/20/24",
+          "key": "flatdamagereduction"
+        },
+        {
+          "coeff": "50",
+          "key": "flatdamagereductionmax*100"
+        }
+      ]
+    },
+    {
+      "id": "LeonaSolarFlare",
+      "vars": [
+        {
+          "coeff": "100/175/250 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "explosioncalculateddamage"
+        },
+        {
+          "coeff": "80",
+          "key": "slowpercent"
+        },
+        {
+          "coeff": "1.5",
+          "key": "ccduration"
+        },
+        {
+          "coeff": "3/4/5",
+          "key": "onhitstacks"
+        },
+        {
+          "coeff": "100",
+          "key": "attackrangeincrease"
+        },
+        {
+          "coeff": "30/40/50 <scaleAP>(+15% AP)</scaleAP>",
+          "key": "onhitcalculateddamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "MalzaharR",
+      "vars": [
+        {
+          "coeff": "2.5% PERR 100 AP",
+          "key": "a1"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TalonQ",
+      "vars": [
+        {
+          "coeff": "150",
+          "key": "f2"
+        },
+        {
+          "coeff": "20 - 71",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "TalonW",
+      "vars": [
+        {
+          "coeff": "40% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "TalonE",
+      "vars": [
+        {
+          "coeff": "800",
+          "key": "f2"
+        },
+        {
+          "coeff": "160/138/110/85/60",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "TalonR",
+      "vars": [
+        {
+          "coeff": "90/135/180 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "40/55/70",
+          "key": "movespeed*100"
+        },
+        {
+          "coeff": "2.5",
+          "key": "duration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RivenFengShuiEngine",
+      "vars": [
+        {
+          "coeff": "15",
+          "key": "duration"
+        },
+        {
+          "coeff": "20",
+          "key": "percentbonusad*100"
+        },
+        {
+          "coeff": "100/150/200 <scaleAD>(+60% bonusAD)</scaleAD>",
+          "key": "mindamage"
+        },
+        {
+          "coeff": "300/450/600 <scaleAD>(+180% bonusAD)</scaleAD>",
+          "key": "maxdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KogMawBioArcaneBarrage",
+      "vars": [
+        {
+          "coeff": "1% PERR 100 AP",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "KogMawLivingArtillery",
+      "vars": [
+        {
+          "coeff": "100/140/180 <scaleAD>(+65% bonusAD)</scaleAD> <scaleAP>(+25% AP)</scaleAP>",
+          "key": "basedamagecalc"
+        },
+        {
+          "coeff": "150/210/270 <scaleAD>(+97.5% bonusAD)</scaleAD> <scaleAP>(+37.5% AP)</scaleAP>",
+          "key": "middamagecalc"
+        },
+        {
+          "coeff": "200/280/360 <scaleAD>(+130% bonusAD)</scaleAD> <scaleAP>(+50% AP)</scaleAP>",
+          "key": "maxdamagecalc"
+        },
+        {
+          "coeff": "8",
+          "key": "manacostduration"
+        },
+        {
+          "coeff": "40",
+          "key": "basecost"
+        },
+        {
+          "coeff": "400",
+          "key": "manacostcap"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ShenQ",
+      "vars": [
+        {
+          "coeff": "10 − 40",
+          "key": "f1"
+        },
+        {
+          "coeff": "1.5% PERR 100 AP",
+          "key": "charabilitypower*.01"
+        },
+        {
+          "coeff": "10 − 40",
+          "key": "f2"
+        },
+        {
+          "coeff": "2% PERR 100 AP",
+          "key": "charabilitypower2*.01"
+        }
+      ]
+    },
+    {
+      "id": "ShenE",
+      "vars": [
+        {
+          "coeff": "30/35/40",
+          "key": "f1"
+        },
+        {
+          "coeff": "15% bonusHealth",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "ShenR",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "175/350/525 <scaleAP>(+135% AP)</scaleAP>",
+          "key": "shield"
+        },
+        {
+          "coeff": "280/560/840 <scaleAP>(+216% AP)</scaleAP>",
+          "key": "maxshield"
+        },
+        {
+          "coeff": "3",
+          "key": "channelduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LuxPrismaticWave",
+      "vars": [
+        {
+          "coeff": "100/130/160/190/220",
+          "key": "effect2amount*2.0"
+        },
+        {
+          "coeff": "40% AP",
+          "key": "charabilitypower2.0,charabilitypower*2"
+        }
+      ]
+    },
+    {
+      "id": "LuxMaliceCannon",
+      "vars": [
+        {
+          "coeff": "300/400/500 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1.75",
+          "key": "resetassistwindow"
+        },
+        {
+          "coeff": "30/40/50",
+          "key": "resetpercent*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "XerathArcaneBarrage2",
+      "vars": [
+        {
+          "coeff": "90/135/180/225/270",
+          "key": "f1"
+        },
+        {
+          "coeff": "90% AP",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ShyvanaDoubleAttack",
+      "vars": [
+        {
+          "coeff": "<scaleAD>100</scaleAD>",
+          "key": "firsthitdamagecalc"
+        },
+        {
+          "coeff": "<scaleAD>20/35/50/65/80% AD</scaleAD>",
+          "key": "secondhitdamagecalc"
+        },
+        {
+          "coeff": "0.5",
+          "key": "cdreductiononhit"
+        },
+        {
+          "coeff": "20",
+          "key": "secondhitdamage*100"
+        }
+      ]
+    },
+    {
+      "id": "ShyvanaImmolationAura",
+      "vars": [
+        {
+          "coeff": "20/32.5/45/57.5/70 <scaleAD>(+20% bonusAD)</scaleAD>",
+          "key": "damagepertickcalc"
+        },
+        {
+          "coeff": "30/35/40/45/50",
+          "key": "mspercent*100"
+        },
+        {
+          "coeff": "3",
+          "key": "baseduration"
+        },
+        {
+          "coeff": "1",
+          "key": "bonusdurationonhit"
+        },
+        {
+          "coeff": "5/8.125/11.25/14.375/17.5 <scaleAD>(+5% bonusAD)</scaleAD>",
+          "key": "damageonhitcalc"
+        },
+        {
+          "coeff": "7",
+          "key": "maxbuffduration"
+        }
+      ]
+    },
+    {
+      "id": "ShyvanaFireball",
+      "vars": [
+        {
+          "coeff": "60/100/140/180/220 <scaleAD>(+30% AD)</scaleAD> <scaleAP>(+70% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "5",
+          "key": "markduration"
+        },
+        {
+          "coeff": "3.25",
+          "key": "percenthpdamage*100"
+        },
+        {
+          "coeff": "<scaleLevel>100 - 200</scaleLevel> <scaleAD>(+30% AD)</scaleAD> <scaleAP>(+70% AP)</scaleAP>",
+          "key": "dragonexplosioncalc"
+        },
+        {
+          "coeff": "<scaleLevel>60 - 120</scaleLevel> <scaleAD>(+10% AD)</scaleAD> <scaleAP>(+20% AP)</scaleAP>",
+          "key": "dragondamagepertickcalc"
+        },
+        {
+          "coeff": "100",
+          "key": "maxdamagevsmonsters"
+        }
+      ]
+    },
+    {
+      "id": "ShyvanaTransformCast",
+      "vars": [
+        {
+          "coeff": "150/250/350",
+          "key": "bonushp"
+        },
+        {
+          "coeff": "150/250/350 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "1/1.5/2",
+          "key": "furygainpertick"
+        },
+        {
+          "coeff": "2",
+          "key": "furygainonhit"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AhriOrbofDeception",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "f4.0"
+        },
+        {
+          "coeff": "9",
+          "key": "f3.0"
+        },
+        {
+          "coeff": "3/5/9/18",
+          "key": "f1.0"
+        },
+        {
+          "coeff": "9% AP",
+          "key": "f2.-1"
+        }
+      ]
+    },
+    {
+      "id": "AhriFoxFire",
+      "vars": [
+        {
+          "coeff": "12/19.5/27/34.5/42 <scaleAP>(+9% AP)</scaleAP>",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "AhriTumble",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "rmaxtargetspercast"
+        },
+        {
+          "coeff": "60/90/120 <scaleAP>(+35% AP)</scaleAP>",
+          "key": "rcalculateddamage"
+        },
+        {
+          "coeff": "3",
+          "key": "rmaxcasts"
+        },
+        {
+          "coeff": "10",
+          "key": "rrecastwindow"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GravesQLineSpell",
+      "vars": [
+        {
+          "coeff": "100% bonusAD",
+          "key": "f1"
+        },
+        {
+          "coeff": "40/70/100/130/160% bonusAD",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "GravesMove",
+      "vars": [
+        {
+          "coeff": "8",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "GravesChargeShot",
+      "vars": [
+        {
+          "coeff": "250/400/550 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "200/320/440 <scaleAD>(+120% bonusAD)</scaleAD>",
+          "key": "falloffdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "FizzQ",
+      "vars": [
+        {
+          "coeff": "10/25/40/55/70 <scaleAP>(+55% AP)</scaleAP>",
+          "key": "qdamage"
+        }
+      ]
+    },
+    {
+      "id": "FizzW",
+      "vars": [
+        {
+          "coeff": "20/30/40/50/60 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "dotdamage"
+        },
+        {
+          "coeff": "3",
+          "key": "bleedduration"
+        },
+        {
+          "coeff": "50/70/90/110/130 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "activedamage"
+        },
+        {
+          "coeff": "20/28/36/44/52",
+          "key": "onkillmanarefund"
+        },
+        {
+          "coeff": "1",
+          "key": "onkillnewcooldown"
+        },
+        {
+          "coeff": "5",
+          "key": "onhitbuffduration"
+        },
+        {
+          "coeff": "10/15/20/25/30 <scaleAP>(+35% AP)</scaleAP>",
+          "key": "onhitbuffdamage"
+        }
+      ]
+    },
+    {
+      "id": "FizzE",
+      "vars": [
+        {
+          "coeff": "70/120/170/220/270 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "edamage"
+        }
+      ]
+    },
+    {
+      "id": "FizzR",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "detonationtime"
+        },
+        {
+          "coeff": "150/250/350 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "smallsharkdamage"
+        },
+        {
+          "coeff": "300/400/500 <scaleAP>(+120% AP)</scaleAP>",
+          "key": "bigsharkdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "VolibearE",
+      "vars": [
+        {
+          "coeff": "60/105/150/195/240 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "30/35/40/45/50",
+          "key": "movespeedmod*100"
+        },
+        {
+          "coeff": "3",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "8",
+          "key": "bonusdamageratio*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RengarQ",
+      "vars": [
+        {
+          "coeff": "0/5/10/15/20% AD",
+          "key": "f2"
+        },
+        {
+          "coeff": "30 - 240",
+          "key": "f3"
+        },
+        {
+          "coeff": "50 − 101",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "RengarW",
+      "vars": [
+        {
+          "coeff": "50 - 220",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "RengarE",
+      "vars": [
+        {
+          "coeff": "50 − 305",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "RengarR",
+      "vars": [
+        {
+          "coeff": "40/50/60",
+          "key": "stealthms"
+        },
+        {
+          "coeff": "2500/3000/3500",
+          "key": "selfvisionrange"
+        },
+        {
+          "coeff": "12/16/20",
+          "key": "stealthduration"
+        },
+        {
+          "coeff": "2",
+          "key": "fadetime"
+        },
+        {
+          "coeff": "50% AD",
+          "key": "bonusdamage"
+        },
+        {
+          "coeff": "12/18/24",
+          "key": "armorshred"
+        },
+        {
+          "coeff": "4",
+          "key": "armorshredduration"
+        },
+        {
+          "coeff": "1600",
+          "key": "enemydetectionrange"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "VarusQ",
+      "vars": [
+        {
+          "coeff": "10/46.7/83.3/120/156.7 <scaleAD>(+110% AD)</scaleAD>",
+          "key": "totaldamagemintooltip"
+        },
+        {
+          "coeff": "15/70/125/180/235 <scaleAD>(+165% AD)</scaleAD>",
+          "key": "totaldamagemax"
+        }
+      ]
+    },
+    {
+      "id": "VarusW",
+      "vars": [
+        {
+          "coeff": "6",
+          "key": "f2*100"
+        },
+        {
+          "coeff": "14",
+          "key": "f1*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NautilusGrandLine",
+      "vars": [
+        {
+          "coeff": "125/175/225 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "secondarytargetdamage"
+        },
+        {
+          "coeff": "150/275/400 <scaleAP>(+80% AP)</scaleAP>",
+          "key": "primarytargetdamage"
+        },
+        {
+          "coeff": "1/1.5/2",
+          "key": "stunduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ViktorPowerTransfer",
+      "vars": [
+        {
+          "coeff": "60/75/90/105/120",
+          "key": "missiledamage"
+        },
+        {
+          "coeff": "30-115",
+          "key": "f1"
+        },
+        {
+          "coeff": "2.5",
+          "key": "buffduration"
+        },
+        {
+          "coeff": "20/45/70/95/120 <scaleAD<(+100% AD)</scaleAD> <scaleAP>(+55% AP)</scaleAP>",
+          "key": "aabonusdamage"
+        },
+        {
+          "coeff": "60",
+          "key": "augmentshieldbonus*100"
+        },
+        {
+          "coeff": "30",
+          "key": "augmentmovespeedbonus"
+        }
+      ]
+    },
+    {
+      "id": "ViktorGravitonField",
+      "vars": [
+        {
+          "coeff": "4",
+          "key": "fieldduration"
+        },
+        {
+          "coeff": "28/32/36/40/44",
+          "key": "slowpotency*-1"
+        },
+        {
+          "coeff": "0.5",
+          "key": "stackcadence"
+        },
+        {
+          "coeff": "3",
+          "key": "stacksforstun"
+        },
+        {
+          "coeff": "1.5",
+          "key": "stunduration"
+        },
+        {
+          "coeff": "20",
+          "key": "augmentslow"
+        }
+      ]
+    },
+    {
+      "id": "ViktorChaosStorm",
+      "vars": [
+        {
+          "coeff": "100/175/250",
+          "key": "initialburstbasedamage"
+        },
+        {
+          "coeff": "6.5",
+          "key": "stormduration"
+        },
+        {
+          "coeff": "65/105/145",
+          "key": "subsequentburstbasedamage"
+        },
+        {
+          "coeff": "1",
+          "key": "tickcadence"
+        },
+        {
+          "coeff": "25",
+          "key": "augmentboost*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SejuaniW",
+      "vars": [
+        {
+          "coeff": "2% totalHealth",
+          "key": "f1"
+        },
+        {
+          "coeff": "20% AP",
+          "key": "f3"
+        },
+        {
+          "coeff": "5.25% totalHealth",
+          "key": "f2"
+        },
+        {
+          "coeff": "60% AP",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "SejuaniE",
+      "vars": [
+        {
+          "coeff": "10/9/8",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "FioraW",
+      "vars": [
+        {
+          "coeff": "100% AP",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "FioraE",
+      "vars": [
+        {
+          "coeff": "100",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "FioraR",
+      "vars": [
+        {
+          "coeff": "400/550/700 <scaleAD>(+300% bonusAD)</scaleAD>",
+          "key": "spell.fiorapassive:rdamagetotal"
+        },
+        {
+          "coeff": "20/30/40/50",
+          "key": "spell.fiorar:percentms"
+        },
+        {
+          "coeff": "8",
+          "key": "markduration"
+        },
+        {
+          "coeff": "80/110/140 <scaleAD>(+60% bonusAD)</scaleAD>",
+          "key": "healpersecondcalc"
+        },
+        {
+          "coeff": "2",
+          "key": "minhealduration"
+        },
+        {
+          "coeff": "5",
+          "key": "healduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ZiggsW",
+      "vars": [
+        {
+          "coeff": "25/27.5/30/32.5/35",
+          "key": "f1*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LuluQ",
+      "vars": [
+        {
+          "coeff": "56/87.5/119/150.5/182",
+          "key": "f4"
+        },
+        {
+          "coeff": "35% AP",
+          "key": "f5"
+        }
+      ]
+    },
+    {
+      "id": "LuluR",
+      "vars": [
+        {
+          "coeff": "7",
+          "key": "buffduration"
+        },
+        {
+          "coeff": "300/450/600 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "totalbonushealth"
+        },
+        {
+          "coeff": "30/45/60",
+          "key": "slowpercent"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "DravenRCast",
+      "vars": [
+        {
+          "coeff": "175/275/375 <scaleAD>(+110% bonusAD)</scaleAD>",
+          "key": "rcalculateddamage"
+        },
+        {
+          "coeff": "8",
+          "key": "rdamagereductionperhit*100"
+        },
+        {
+          "coeff": "40",
+          "key": "rmindamagepercent"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "HecarimRapidSlash",
+      "vars": [
+        {
+          "coeff": "55/95/135/175/215",
+          "key": "basedamage"
+        },
+        {
+          "coeff": "66.6",
+          "key": "miniondamageratio*100"
+        },
+        {
+          "coeff": "1",
+          "key": "rampagecooldownreduction"
+        },
+        {
+          "coeff": "5",
+          "key": "rampagebonusratio*100"
+        },
+        {
+          "coeff": "2",
+          "key": "maxstacks"
+        }
+      ]
+    },
+    {
+      "id": "HecarimUlt",
+      "vars": [
+        {
+          "coeff": "150/250/350",
+          "key": "basedamage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "feardurationmin"
+        },
+        {
+          "coeff": "1.5",
+          "key": "feardurationmax"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KhazixR",
+      "vars": [
+        {
+          "coeff": "1.25",
+          "key": "stealthduration"
+        },
+        {
+          "coeff": "40",
+          "key": "bonusmovementspeedpercent*100"
+        },
+        {
+          "coeff": "10",
+          "key": "recastwindow"
+        },
+        {
+          "coeff": "2",
+          "key": "numberofcasts"
+        },
+        {
+          "coeff": "3",
+          "key": "evolvednumberofcasts"
+        },
+        {
+          "coeff": "2",
+          "key": "evolvedstealthduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "DariusNoxianTacticsONH",
+      "vars": [
+        {
+          "coeff": "50/55/60/65/70% AD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "DariusExecute",
+      "vars": [
+        {
+          "coeff": "100/200/300 <scaleAD>(+75% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "0-100",
+          "key": "rdamagepercentperhemostack"
+        },
+        {
+          "coeff": "20",
+          "key": "rrecastduration"
+        },
+        {
+          "coeff": "200/400/600 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "maximumdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "JayceToTheSkies",
+      "vars": [
+        {
+          "coeff": "55/105/155/205/255/305 <scaleAD>(+120% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "30/35/40/45/50/55",
+          "key": "slow*-100"
+        },
+        {
+          "coeff": "2",
+          "key": "slowduration"
+        }
+      ]
+    },
+    {
+      "id": "JayceStaticField",
+      "vars": [
+        {
+          "coeff": "6/8/10/12/14/16",
+          "key": "managain"
+        },
+        {
+          "coeff": "25/40/55/70/85/100 <scaleAP>(+25% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "4",
+          "key": "duration"
+        }
+      ]
+    },
+    {
+      "id": "JayceThunderingBlow",
+      "vars": [
+        {
+          "coeff": "8/10.4/12.8/15.2/17.6/20",
+          "key": "perchpdamage*100"
+        },
+        {
+          "coeff": "100% bonusAD",
+          "key": "flatdamage"
+        },
+        {
+          "coeff": "200/300/400/500/600/700",
+          "key": "monstercap"
+        }
+      ]
+    },
+    {
+      "id": "JayceStanceHtG",
+      "vars": [
+        {
+          "coeff": "10/15/20/25%",
+          "key": "rangedformshred"
+        },
+        {
+          "coeff": "5",
+          "key": "shredduration"
+        },
+        {
+          "coeff": "200/300/400/500/600/700",
+          "key": "monstercap"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LissandraR",
+      "vars": [
+        {
+          "coeff": "1.5",
+          "key": "enemycastduration"
+        },
+        {
+          "coeff": "2.5",
+          "key": "selfcastduration"
+        },
+        {
+          "coeff": "100/150/200 <scaleAP>(+30% AP)</scaleAP>",
+          "key": "healamount"
+        },
+        {
+          "coeff": "1",
+          "key": "selfcastmissinghpratio"
+        },
+        {
+          "coeff": "1",
+          "key": "selfcastmissinghpperabove"
+        },
+        {
+          "coeff": "150/250/350 <scaleAP>(+75% AP)</scaleAP>",
+          "key": "calculateddamage"
+        },
+        {
+          "coeff": "3",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "30/52.5/75",
+          "key": "slowamount*-100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "DianaQ",
+      "vars": [
+        {
+          "coeff": "60/95/130/165/200 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "3",
+          "key": "moonlightduration"
+        }
+      ]
+    },
+    {
+      "id": "DianaVortex",
+      "vars": [
+        {
+          "coeff": "50/60/70/80/90",
+          "key": "attackspeednewvalue*100"
+        }
+      ]
+    },
+    {
+      "id": "DianaTeleport",
+      "vars": [
+        {
+          "coeff": "100/160/220 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totaldamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "QuinnQ",
+      "vars": [
+        {
+          "coeff": "80/90/100/110/120% AD",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "QuinnR",
+      "vars": [
+        {
+          "coeff": "70/100/130",
+          "key": "movementspeedmod*100"
+        },
+        {
+          "coeff": "<scaleAD>40% AD</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "3",
+          "key": "slowduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SyndraR",
+      "vars": [
+        {
+          "coeff": "90/140/190 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "270/420/570 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "mindamagecalc"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AurelionSolQ",
+      "vars": [
+        {
+          "coeff": "0.55/0.6/0.65/0.7/0.75",
+          "key": "effect4amount*.25"
+        }
+      ]
+    },
+    {
+      "id": "AurelionSolW",
+      "vars": [
+        {
+          "coeff": "5/10/15/20/25",
+          "key": "starbasedamageincrease"
+        },
+        {
+          "coeff": "50",
+          "key": "damagemultiplier*100"
+        },
+        {
+          "coeff": "24−180 (+7.5/15/22.5/30/37.5)",
+          "key": "f1"
+        },
+        {
+          "coeff": "37.5% AP",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KaynE",
+      "vars": [
+        {
+          "coeff": "8",
+          "key": "assassincdreduction"
+        }
+      ]
+    },
+    {
+      "id": "KaynR",
+      "vars": [
+        {
+          "coeff": "2.5",
+          "key": "infestduration"
+        },
+        {
+          "coeff": "150/250/350 <scaleAD>(+175% bonusAD)</scaleAD>",
+          "key": "damage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ZoeQ",
+      "vars": [
+        {
+          "coeff": "7 − 50 (+50/80/110/140/170)",
+          "key": "f1"
+        },
+        {
+          "coeff": "17.5 − 125 (+125/200/275/350/425)",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "ZoeW",
+      "vars": [
+        {
+          "coeff": "2",
+          "key": "e0"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ZyraQ",
+      "vars": [
+        {
+          "coeff": "<scaleLevel>20 − 100</scaleLevel>",
+          "key": "f1"
+        },
+        {
+          "coeff": "8",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "ZyraW",
+      "vars": [
+        {
+          "coeff": "20/18/16/14/12",
+          "key": "ammorechargetime"
+        }
+      ]
+    },
+    {
+      "id": "ZyraE",
+      "vars": [
+        {
+          "coeff": "<scaleLevel>20 − 100</scaleLevel>",
+          "key": "f1"
+        },
+        {
+          "coeff": "8",
+          "key": "f2"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KaisaQ",
+      "vars": [
+        {
+          "coeff": "40% AP",
+          "key": "f7"
+        },
+        {
+          "coeff": "112.5/153.125/193.75/234.375/275",
+          "key": "f3"
+        },
+        {
+          "coeff": "87.5% bonusAD",
+          "key": "f2"
+        },
+        {
+          "coeff": "100% AP",
+          "key": "f8"
+        }
+      ]
+    },
+    {
+      "id": "KaisaW",
+      "vars": [
+        {
+          "coeff": "60% AP",
+          "key": "f6"
+        },
+        {
+          "coeff": "60% AP",
+          "key": "f8"
+        }
+      ]
+    },
+    {
+      "id": "KaisaE",
+      "vars": [
+        {
+          "coeff": "1.2 - 0.6",
+          "key": "f1"
+        },
+        {
+          "coeff": "55/60/65/70/75",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "KaisaR",
+      "vars": [
+        {
+          "coeff": "75/100/125 <scaleAD>(+100/150/200% AD)</scaleAD> <scaleAP>(+75% AP)</scaleAP>",
+          "key": "rcalculatedshieldvalue"
+        },
+        {
+          "coeff": "2",
+          "key": "rshieldduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "GnarQ",
+      "vars": [
+        {
+          "coeff": "40",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "GnarW",
+      "vars": [
+        {
+          "coeff": "10/20/30/40/50",
+          "key": "minitotaldamage"
+        },
+        {
+          "coeff": "6/8/10/12/14",
+          "key": "minipercenthpdamage*100"
+        },
+        {
+          "coeff": "30/45/60/75",
+          "key": "f1"
+        },
+        {
+          "coeff": "100/150/200/250/300 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "minimonstercap"
+        },
+        {
+          "coeff": "1.25",
+          "key": "megastunduration"
+        },
+        {
+          "coeff": "25/45/65/85/105 <scaleAD>(+100% AD)</scaleAD>",
+          "key": "megatotaldamage"
+        }
+      ]
+    },
+    {
+      "id": "GnarR",
+      "vars": [
+        {
+          "coeff": "45/60/75",
+          "key": "rhypermovementspeedpercent"
+        },
+        {
+          "coeff": "200/300/400 <scaleAD>(+20% bonusAD)</scaleAD> <scaleAP>(+50% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "45",
+          "key": "rslowpercent"
+        },
+        {
+          "coeff": "1.25/1.5/1.75",
+          "key": "rccduration"
+        },
+        {
+          "coeff": "300/450/600 <scaleAD>(+30% bonusAD)</scaleAD> <scaleAP>(+75% AP)</scaleAP>",
+          "key": "rwallhitdamagemultiplier"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ZacQ",
+      "vars": [
+        {
+          "coeff": "2.5% totalHealth",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "ZacE",
+      "vars": [
+        {
+          "coeff": "0.5",
+          "key": "f2"
+        },
+        {
+          "coeff": "1",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "ZacR",
+      "vars": [
+        {
+          "coeff": "1/2/3",
+          "key": "f8"
+        },
+        {
+          "coeff": "4",
+          "key": "bounces"
+        },
+        {
+          "coeff": "1",
+          "key": "knockupduration"
+        },
+        {
+          "coeff": "140/210/280 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "damageperbounce"
+        },
+        {
+          "coeff": "50",
+          "key": "damagereductionbounce*100"
+        },
+        {
+          "coeff": "20",
+          "key": "slowamount*100"
+        },
+        {
+          "coeff": "1",
+          "key": "slowduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "YasuoR",
+      "vars": [
+        {
+          "coeff": "200/300/400 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "1",
+          "key": "rknockupduration"
+        },
+        {
+          "coeff": "15",
+          "key": "rbuffduration"
+        },
+        {
+          "coeff": "50",
+          "key": "rpercentarmorpen"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TaliyahE",
+      "vars": [
+        {
+          "coeff": "20% (+4% PERR 100 AP)",
+          "key": "f2"
+        },
+        {
+          "coeff": "50/60/70/80/90",
+          "key": "f3"
+        },
+        {
+          "coeff": "30% AP",
+          "key": "f1"
+        },
+        {
+          "coeff": "15",
+          "key": "f4"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "CamilleQ",
+      "vars": [
+        {
+          "coeff": "20/25/30/35/40% AD",
+          "key": "f1"
+        },
+        {
+          "coeff": "40/50/60/70/80% AD",
+          "key": "f2"
+        },
+        {
+          "coeff": "40 - 100",
+          "key": "f3"
+        },
+        {
+          "coeff": "3.5",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "CamilleW",
+      "vars": [
+        {
+          "coeff": "60% bonusAD",
+          "key": "f1"
+        },
+        {
+          "coeff": "3.3% PERR 100 bonusAD",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "CamilleE",
+      "vars": [
+        {
+          "coeff": "75% bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "CamilleR",
+      "vars": [
+        {
+          "coeff": "2.5/3.25/4",
+          "key": "rduration"
+        },
+        {
+          "coeff": "5/10/15",
+          "key": "ronhitdamage"
+        },
+        {
+          "coeff": "4/6/8",
+          "key": "rpercentcurrenthpdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "BraumW",
+      "vars": [
+        {
+          "coeff": "10/14/18/22/26",
+          "key": "f3"
+        },
+        {
+          "coeff": "10/14/18/22/26",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "BraumRWrapper",
+      "vars": [
+        {
+          "coeff": "4",
+          "key": "slowzoneduration"
+        },
+        {
+          "coeff": "240/50/60",
+          "key": "movespeedmod"
+        },
+        {
+          "coeff": "150/250/350 <scaleAP>(+60% AP</scaleAP>)",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1/1.25/1.5",
+          "key": "firstknockupduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "JhinQ",
+      "vars": [
+        {
+          "coeff": "45/52.5/60/67.5/75% AD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "JhinE",
+      "vars": [
+        {
+          "coeff": "28/25/22/19/16",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "JhinR",
+      "vars": [
+        {
+          "coeff": "80",
+          "key": "slowpercent*100"
+        },
+        {
+          "coeff": "0.5",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "50/125/200 <scaleAD>(+20% AD)</scaleAD>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "3",
+          "key": "percentmissingamp"
+        },
+        {
+          "coeff": "200/500/800 <scaleAD>(+80% AD)</scaleAD>",
+          "key": "maxincreasecalc"
+        },
+        {
+          "coeff": "200",
+          "key": "fourthshotmultiplier*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KindredQ",
+      "vars": [
+        {
+          "coeff": "25",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "KindredW",
+      "vars": [
+        {
+          "coeff": "32 - 100",
+          "key": "f1"
+        },
+        {
+          "coeff": "1.5",
+          "key": "f3"
+        }
+      ]
+    },
+    {
+      "id": "KindredEWrapper",
+      "vars": [
+        {
+          "coeff": "0.5",
+          "key": "f2"
+        },
+        {
+          "coeff": "50",
+          "key": "f3"
+        },
+        {
+          "coeff": "300",
+          "key": "e0"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "JinxR",
+      "vars": [
+        {
+          "coeff": "25/35/45 <scaleAD>(+15% bonusAD)</scaleAD>",
+          "key": "damagefloor"
+        },
+        {
+          "coeff": "250/350/450 <scaleAD>(+150% bonusAD)</scaleAD>",
+          "key": "damagemax"
+        },
+        {
+          "coeff": "25/30/35",
+          "key": "percentdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "TahmKenchE",
+      "vars": [
+        {
+          "coeff": "30-100%",
+          "key": "healthratio"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SennaQ",
+      "vars": [
+        {
+          "coeff": "50/80/110/140/170 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "40/60/80/100/120 <scaleAD>(+40% bonusAD)</scaleAD> <scaleAP>(+25% AP)</scaleAP>",
+          "key": "totalheal"
+        },
+        {
+          "coeff": "1",
+          "key": "cdreductiononhit"
+        }
+      ]
+    },
+    {
+      "id": "SennaW",
+      "vars": [
+        {
+          "coeff": "70/115/160/205/250 <scaleAD>(+70% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "1",
+          "key": "delaytime"
+        },
+        {
+          "coeff": "1.45/1.65/1.85/2.05/2.25",
+          "key": "rootduration"
+        }
+      ]
+    },
+    {
+      "id": "SennaE",
+      "vars": [
+        {
+          "coeff": "6/6.5/7/7.5/8",
+          "key": "buffduration"
+        },
+        {
+          "coeff": "20%",
+          "key": "totalms"
+        }
+      ]
+    },
+    {
+      "id": "SennaR",
+      "vars": [
+        {
+          "coeff": "250/375/500 <scaleAD>(+100% bonusAD)</scaleAD> <scaleAP>(+40% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "3",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "120/160/200 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "totalshield"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "LucianR",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "duration"
+        },
+        {
+          "coeff": "20/40/60 <scaleAD>(+25% AD)</scaleAD> <scaleAP>(+10% AP)</scaleAP>",
+          "key": "damageperbullet"
+        },
+        {
+          "coeff": "200",
+          "key": "percentdamageamptominions"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ZedQ",
+      "vars": [
+        {
+          "coeff": "80/115/150/185/220 <scaleAD>(+ 100% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "48/69/90/111/132 <scaleAD>(+60% bonus AD)</scaleAD>",
+          "key": "passthroughdamage"
+        }
+      ]
+    },
+    {
+      "id": "ZedE",
+      "vars": [
+        {
+          "coeff": "70/95/120/145/170 <scaleAD>(+80% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "2",
+          "key": "shadowhitcdr"
+        },
+        {
+          "coeff": "20/25/30/35/40",
+          "key": "movespeedmod*-100"
+        },
+        {
+          "coeff": "1.5",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "30/37.5/45/52.5/60",
+          "key": "movespeedmodbonus*-100"
+        }
+      ]
+    },
+    {
+      "id": "ZedR",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "rdeathmarkduration"
+        },
+        {
+          "coeff": "<scaleAD>100% AD</scaleAD>",
+          "key": "rcalculateddamage"
+        },
+        {
+          "coeff": "25/40/55",
+          "key": "rdamageamp*100"
+        },
+        {
+          "coeff": "6",
+          "key": "rshadowdurationdisplayed"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KledQ",
+      "vars": [
+        {
+          "coeff": "120% bonusAD",
+          "key": "charbonusphysical*2"
+        },
+        {
+          "coeff": "1.5",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "60",
+          "key": "grievousamount*-100"
+        },
+        {
+          "coeff": "5",
+          "key": "grievousduration"
+        }
+      ]
+    },
+    {
+      "id": "KledW",
+      "vars": [
+        {
+          "coeff": "5% PERR 100 bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "KledR",
+      "vars": [
+        {
+          "coeff": "4/5/6",
+          "key": "f5"
+        },
+        {
+          "coeff": "4% PERR 100 bonusAD",
+          "key": "f1*3"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "EkkoW",
+      "vars": [
+        {
+          "coeff": "40",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "EkkoR",
+      "vars": [
+        {
+          "coeff": "150/300/450 <scaleAP>(+150% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "100/150/200 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "totalbaseheal"
+        },
+        {
+          "coeff": "3",
+          "key": "percenthealampperpercentmissinghealth"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "QiyanaQ",
+      "vars": [
+        {
+          "coeff": "60/85/110/135/160 <scaleAD>(+90% bonusAD)</scaleAD>",
+          "key": "enchanteddamage"
+        },
+        {
+          "coeff": "20",
+          "key": "slowpotency*-100"
+        },
+        {
+          "coeff": "1",
+          "key": "slowduration"
+        },
+        {
+          "coeff": "128/160/192/224/256 <scaleAD>(+144% bonusAD)</scaleAD>",
+          "key": "tremordamage"
+        },
+        {
+          "coeff": "50",
+          "key": "critthreshold*100"
+        },
+        {
+          "coeff": "20",
+          "key": "haste*100"
+        },
+        {
+          "coeff": "3.5",
+          "key": "stealthduration"
+        },
+        {
+          "coeff": "80/100/120/140/160 <scaleAD>(+90% bonusAD)</scaleAD>",
+          "key": "vanilladamage"
+        },
+        {
+          "coeff": "60/75/90/105/120 <scaleAD>(+67.5% bonusAD)</scaleAD>",
+          "key": "falloffdamage"
+        }
+      ]
+    },
+    {
+      "id": "QiyanaW",
+      "vars": [
+        {
+          "coeff": "20",
+          "key": "attackspeed*100"
+        },
+        {
+          "coeff": "8/16/24/32/40 <scaleAD>(+20% bonusAD)</scaleAD> <scaleAP>(+30% AP)</scaleAP>",
+          "key": "onhitdamage"
+        },
+        {
+          "coeff": "5/6.25/7.5/8.75/10",
+          "key": "passivems*100"
+        }
+      ]
+    },
+    {
+      "id": "QiyanaE",
+      "vars": [
+        {
+          "coeff": "60/95/130/165/200 <scaleAD>(+70% bonusAD)</scaleAD>",
+          "key": "damage"
+        }
+      ]
+    },
+    {
+      "id": "QiyanaR",
+      "vars": [
+        {
+          "coeff": "0.5 - 1",
+          "key": "stunduration"
+        },
+        {
+          "coeff": "100/170/240 <scaleAD>(+170% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "10/12/14",
+          "key": "missinghealthdamagerock"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "ViQ",
+      "vars": [
+        {
+          "coeff": "70% bonusAD",
+          "key": "f3"
+        },
+        {
+          "coeff": "110/160/210/260/310",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "ViW",
+      "vars": [
+        {
+          "coeff": "1% PERR 35 bonusAD",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "ViR",
+      "vars": [
+        {
+          "coeff": "1.25",
+          "key": "rstunduration"
+        },
+        {
+          "coeff": "150/325/500 <scaleAD>(+110% bonusAD)</scaleAD>",
+          "key": "damage"
+        },
+        {
+          "coeff": "0.75",
+          "key": "secondarytargetstunduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AatroxQ",
+      "vars": [
+        {
+          "coeff": "10/30/50/70/90 <scaleAD>(+60/65/70/75/80% AD)</scaleAD>",
+          "key": "qdamage,qbasedamage"
+        }
+      ]
+    },
+    {
+      "id": "AatroxW",
+      "vars": [
+        {
+          "coeff": "30/40/50/60/70 <scaleAD>(+40% AD)</scaleAD>",
+          "key": "wdamage,wbasedamage"
+        },
+        {
+          "coeff": "25%",
+          "key": "wslowpercentage*-100"
+        },
+        {
+          "coeff": "1.5",
+          "key": "wslowduration"
+        }
+      ]
+    },
+    {
+      "id": "AatroxE",
+      "vars": [
+        {
+          "coeff": "20/22.5/25/27.5/30",
+          "key": "espellvamp"
+        }
+      ]
+    },
+    {
+      "id": "AatroxR",
+      "vars": [
+        {
+          "coeff": "10",
+          "key": "rduration"
+        },
+        {
+          "coeff": "20/25/30",
+          "key": "rtotaladamp*100"
+        },
+        {
+          "coeff": "40/55/70",
+          "key": "rhealingamp*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NamiW",
+      "vars": [
+        {
+          "coeff": "15 (+7.5% PERR 100 AP)",
+          "key": "f1"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "AzirW",
+      "vars": [
+        {
+          "coeff": "60 - 160",
+          "key": "f2"
+        },
+        {
+          "coeff": "25/50/75/100",
+          "key": "f7"
+        },
+        {
+          "coeff": "2",
+          "key": "maxammo"
+        },
+        {
+          "coeff": "8/7.5/7/6.5/6",
+          "key": "ammorechargetime"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "YuumiQ",
+      "vars": [
+        {
+          "coeff": "40/65/90/115/140/165 <scaleAP>(+45% AP)</scaleAP>",
+          "key": "totalmissiledamage"
+        },
+        {
+          "coeff": "1",
+          "key": "afterburnertimetooltip"
+        },
+        {
+          "coeff": "50/85/120/155/190/225 <scaleAP>(+65% AP)</scaleAP>",
+          "key": "empoweredmissiledamage"
+        },
+        {
+          "coeff": "20",
+          "key": "slowamount"
+        },
+        {
+          "coeff": "1",
+          "key": "slowduration"
+        }
+      ]
+    },
+    {
+      "id": "YuumiW",
+      "vars": [
+        {
+          "coeff": "4/7/10/13/16",
+          "key": "adaptivestatsharing*100"
+        },
+        {
+          "coeff": "10 - 0",
+          "key": "attachcooldown"
+        },
+        {
+          "coeff": "5/7/9/11/13",
+          "key": "flatadaptivestats"
+        }
+      ]
+    },
+    {
+      "id": "YuumiE",
+      "vars": [
+        {
+          "coeff": "30/40/50/60/70 <scaleAP>(+10% AP)</scaleAP>",
+          "key": "minamounttoheal"
+        },
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "maxamounttoheal"
+        },
+        {
+          "coeff": "25% <scaleAP>(+10% PERR 100 AP)</scaleAP>",
+          "key": "finalmovespeed"
+        },
+        {
+          "coeff": "2",
+          "key": "msduration"
+        },
+        {
+          "coeff": "18/17/16/15/14",
+          "key": "ammorechargetime"
+        }
+      ]
+    },
+    {
+      "id": "YuumiR",
+      "vars": [
+        {
+          "coeff": "3.5",
+          "key": "ultduration"
+        },
+        {
+          "coeff": "7",
+          "key": "numberofwaves"
+        },
+        {
+          "coeff": "60/80/100 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "totalmissiledamage"
+        },
+        {
+          "coeff": "50",
+          "key": "multimissilereduction*100"
+        },
+        {
+          "coeff": "3",
+          "key": "wavestoroot"
+        },
+        {
+          "coeff": "1.75",
+          "key": "ccduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "IllaoiW",
+      "vars": [
+        {
+          "coeff": "3/3.5/4/4.5/5",
+          "key": "f1*100"
+        },
+        {
+          "coeff": "2",
+          "key": "f2*100"
+        }
+      ]
+    },
+    {
+      "id": "IllaoiE",
+      "vars": [
+        {
+          "coeff": "8% PERR 100 AD",
+          "key": "f5"
+        },
+        {
+          "coeff": "5/4/3",
+          "key": "f1"
+        },
+        {
+          "coeff": "5.5/4.5/3.5",
+          "key": "timebetweenvesseltentacleslams"
+        }
+      ]
+    },
+    {
+      "id": "IllaoiR",
+      "vars": [
+        {
+          "coeff": "150/250/350 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "damagecalc"
+        },
+        {
+          "coeff": "8",
+          "key": "duration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RekSaiW",
+      "vars": [
+        {
+          "coeff": "15/20/25/30",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "RekSaiRWrapper",
+      "vars": [
+        {
+          "coeff": "5",
+          "key": "preymarkduration"
+        },
+        {
+          "coeff": "100/250/400 <scaleAD>(+175% bonusAD)</scaleAD>",
+          "key": "rbasedamagecalc"
+        },
+        {
+          "coeff": "20/25/30",
+          "key": "percentmissinghealthdamage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "IvernQ",
+      "vars": [
+        {
+          "coeff": "70% AP",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "IvernW",
+      "vars": [
+        {
+          "coeff": "30% AP",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "IvernE",
+      "vars": [
+        {
+          "coeff": "80% AP",
+          "key": "f3"
+        },
+        {
+          "coeff": "80% AP",
+          "key": "f4"
+        }
+      ]
+    },
+    {
+      "id": "IvernR",
+      "vars": [
+        {
+          "coeff": "60",
+          "key": "f6"
+        },
+        {
+          "coeff": "1,250/2,500/3,750 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "totaldaisyhp"
+        },
+        {
+          "coeff": "15/40/90 <scaleAP>(+5% AP)</scaleAP>",
+          "key": "totalbonusresists"
+        },
+        {
+          "coeff": "100/125/175 <scaleAP>(+25% AP)</scaleAP>",
+          "key": "totaldaisyad"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "KalistaExpungeWrapper",
+      "vars": [
+        {
+          "coeff": "50",
+          "key": "epicmonsterdamagemod*100"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "BardW",
+      "vars": [
+        {
+          "coeff": "3",
+          "key": "f2"
+        }
+      ]
+    },
+    {
+      "id": "BardR",
+      "vars": [
+        {
+          "coeff": "2.5",
+          "key": "rstasisduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "RakanQ",
+      "vars": [
+        {
+          "coeff": "18 - 120",
+          "key": "f1"
+        }
+      ]
+    },
+    {
+      "id": "RakanW",
+      "vars": [
+        {
+          "coeff": "70/120/170/220/270 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1",
+          "key": "knockupduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "XayahQ",
+      "vars": [
+        {
+          "coeff": "45/65/85/105/125 <scaleAD>(+50% bonusAD)</scaleAD>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "50",
+          "key": "multihitratio*100"
+        }
+      ]
+    },
+    {
+      "id": "XayahE",
+      "vars": [
+        {
+          "coeff": "55/65/75/85/95 <scaleAD>(+60% bonusAD)</scaleAD>",
+          "key": "featherdamage"
+        },
+        {
+          "coeff": "3",
+          "key": "featherthreshold"
+        },
+        {
+          "coeff": "1.25",
+          "key": "rootduration"
+        },
+        {
+          "coeff": "50",
+          "key": "minionmultiplier*100"
+        }
+      ]
+    },
+    {
+      "id": "XayahR",
+      "vars": [
+        {
+          "coeff": "100/150/200 <scaleAD>(+100% bonusAD)</scaleAD>",
+          "key": "damage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "OrnnW",
+      "vars": [
+        {
+          "coeff": "0.75",
+          "key": "breathduration"
+        },
+        {
+          "coeff": "12/13/14/15/16",
+          "key": "maxpercenthpperticktooltip"
+        },
+        {
+          "coeff": "3",
+          "key": "brittleduration"
+        },
+        {
+          "coeff": "12 - 20.5%",
+          "key": "brittlepercentmaxhpcalc"
+        },
+        {
+          "coeff": "80/130/180/230/280",
+          "key": "totalminimumdamage"
+        },
+        {
+          "coeff": "155/180/205/230/255",
+          "key": "totalmonsterdamagecap"
+        }
+      ]
+    },
+    {
+      "id": "OrnnE",
+      "vars": [
+        {
+          "coeff": "80/125/170/215/260 <scaleArmor>(+40% bonusArmor)</scaleArmor> <scaleMr>(+40% bonusMr)</scaleMr>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1",
+          "key": "knockupduration"
+        }
+      ]
+    },
+    {
+      "id": "OrnnR",
+      "vars": [
+        {
+          "coeff": "20% AP",
+          "key": "f4"
+        },
+        {
+          "coeff": "3",
+          "key": "f10"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "SylasQ",
+      "vars": [
+        {
+          "coeff": "45/70/95/120/145 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "damage"
+        },
+        {
+          "coeff": "15/20/25/30/35%",
+          "key": "slowamountcalc"
+        },
+        {
+          "coeff": "45/70/95/120/145 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "explosiondamage"
+        },
+        {
+          "coeff": "24.75/38.5/52.25/66/79.75 <scaleAP>(+33% AP)</scaleAP>",
+          "key": "minionmodcalc"
+        }
+      ]
+    },
+    {
+      "id": "SylasW",
+      "vars": [
+        {
+          "coeff": "65/100/135/170/205 <scaleAP>(+65% AP)</scaleAP>",
+          "key": "mindamage"
+        },
+        {
+          "coeff": "90/135/180/225/270 <scaleAP>(+97.5% AP)</scaleAP>",
+          "key": "maxdamage"
+        },
+        {
+          "coeff": "60/80/100/120/140 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "minhealing"
+        },
+        {
+          "coeff": "105/140/175/210/245 <scaleAP>(+70% AP)</scaleAP>",
+          "key": "maxhealing"
+        }
+      ]
+    },
+    {
+      "id": "SylasE",
+      "vars": [
+        {
+          "coeff": "80/115/150/185/220 <scaleAP>(+100% AP)</scaleAP>",
+          "key": "shieldvalue"
+        },
+        {
+          "coeff": "2",
+          "key": "shieldduration"
+        },
+        {
+          "coeff": "70/85/100/115/130 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "damage"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "NeekoQ",
+      "vars": [
+        {
+          "coeff": "70/115/160/205/250 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "explosiondamage"
+        },
+        {
+          "coeff": "35/55/75/95/115 <scaleAP>(+20% AP)</scaleAP>",
+          "key": "seconddamage"
+        }
+      ]
+    },
+    {
+      "id": "NeekoW",
+      "vars": [
+        {
+          "coeff": "50/70/90/110/130 <scaleAP>(+60% AP)</scaleAP>",
+          "key": "passivebonusdamagecalc"
+        },
+        {
+          "coeff": "10/15/20/25/30",
+          "key": "passivehaste"
+        },
+        {
+          "coeff": "1",
+          "key": "passivehasteduration"
+        },
+        {
+          "coeff": "0.5",
+          "key": "stealthduration"
+        },
+        {
+          "coeff": "3",
+          "key": "cloneduration"
+        },
+        {
+          "coeff": "20/25/30/35/40",
+          "key": "haste"
+        },
+        {
+          "coeff": "3",
+          "key": "hasteduration"
+        }
+      ]
+    },
+    {
+      "id": "NeekoE",
+      "vars": [
+        {
+          "coeff": "80/115/150/185/220 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "basedamage"
+        },
+        {
+          "coeff": "0.7/0.9/1.1/1.3/1.5",
+          "key": "minrootduration"
+        },
+        {
+          "coeff": "1.8/2.1/2.4/2.7/3",
+          "key": "maxrootduration"
+        }
+      ]
+    },
+    {
+      "id": "NeekoR",
+      "vars": [
+        {
+          "coeff": "1.25",
+          "key": "delayuntilreveal"
+        },
+        {
+          "coeff": "50/80/110 <scaleAP>(+50% AP)</scaleAP>",
+          "key": "baseshield"
+        },
+        {
+          "coeff": "40/60/80 <scaleAP>(+40% AP)</scaleAP>",
+          "key": "shieldmultiplier"
+        },
+        {
+          "coeff": "200/425/650 <scaleAP>(+130% AP)</scaleAP>",
+          "key": "totaldamage"
+        },
+        {
+          "coeff": "1.25",
+          "key": "ccduration"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "id": "PykeQ",
+      "vars": [
+        {
+          "coeff": "86.25/143.75/201.25/258.75/316.25",
+          "key": "f5"
+        },
+        {
+          "coeff": "69% bonusAD",
+          "key": "f6"
+        },
+        {
+          "coeff": "30",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "PykeW",
+      "vars": [
+        {
+          "coeff": "1.5% PERR 1 Leth",
+          "key": "f7"
+        },
+        {
+          "coeff": "5",
+          "key": "e0"
+        }
+      ]
+    },
+    {
+      "id": "PykeE",
+      "vars": [
+        {
+          "coeff": "0.1 PERR 10 Leth",
+          "key": "f10.01"
+        }
+      ]
+    },
+    {
+      "id": "PykeR",
+      "vars": [
+        {
+          "coeff": "250-550",
+          "key": "rbasedamage"
+        },
+        {
+          "coeff": "80% bonusAD",
+          "key": "raddamage"
+        },
+        {
+          "coeff": "1.5 PERR 1 Leth",
+          "key": "rlethalitydamage"
+        },
+        {
+          "coeff": "50",
+          "key": "reduceddamage*100"
+        },
+        {
+          "coeff": "20",
+          "key": "rrecastduration"
+        }
+      ]
+    }
+  ]
+]
